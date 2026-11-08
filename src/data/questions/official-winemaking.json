@@ -1,0 +1,1353 @@
+[
+  {
+    "id": "official-winemaking-001",
+    "category": "Технология виноделия",
+    "subcategory": "Малолактика",
+    "difficulty": "medium",
+    "question": "Какие микроорганизмы выполняют малолактическую конверсию?",
+    "options": [
+      "Только спиртовые дрожжи",
+      "Только плесень Botrytis",
+      "Никакие, это фильтрация",
+      "Молочнокислые бактерии"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Малолактическую конверсию осуществляют бактерии, а не спиртовые дрожжи.",
+    "image": null,
+    "sourceIds": [
+      "awri-mlf"
+    ]
+  },
+  {
+    "id": "official-winemaking-002",
+    "category": "Технология виноделия",
+    "subcategory": "Малолактика",
+    "difficulty": "hard",
+    "question": "Какую бактерию AWRI называет основной для малолактической конверсии?",
+    "options": [
+      "Acetobacter aceti",
+      "Brettanomyces bruxellensis",
+      "Oenococcus oeni",
+      "Saccharomyces cerevisiae"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Oenococcus oeni приспособлена к условиям вина и широко используется для MLF.",
+    "image": null,
+    "sourceIds": [
+      "awri-mlf"
+    ]
+  },
+  {
+    "id": "official-winemaking-003",
+    "category": "Технология виноделия",
+    "subcategory": "Осадок",
+    "difficulty": "medium",
+    "question": "Что составляет важную часть ферментационного осадка?",
+    "options": [
+      "Только углекислый газ",
+      "Клетки дрожжей",
+      "Только дубовые щепки",
+      "Только стекло"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Осадок содержит дрожжевые клетки и другие частицы виноматериала.",
+    "image": null,
+    "sourceIds": [
+      "awri-lees"
+    ]
+  },
+  {
+    "id": "official-winemaking-004",
+    "category": "Технология виноделия",
+    "subcategory": "Контакт с кожицей",
+    "difficulty": "medium",
+    "question": "Что могут увеличивать время и температура контакта с кожицей?",
+    "options": [
+      "Извлечение фенольных веществ",
+      "Содержание стекла",
+      "Объём бутылки",
+      "Количество наклеек"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Контакт с кожицей влияет на экстракцию цвета, танинов и других соединений.",
+    "image": null,
+    "sourceIds": [
+      "awri-temp"
+    ]
+  },
+  {
+    "id": "official-winemaking-005",
+    "category": "Технология виноделия",
+    "subcategory": "Холодная мацерация",
+    "difficulty": "hard",
+    "question": "На каком этапе выполняют cold soak красного винограда?",
+    "options": [
+      "Только после розлива",
+      "Только после перегонки",
+      "После удаления вина из бутылки",
+      "До начала спиртового брожения"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Cold soak — выдержка дроблёного винограда при низкой температуре до брожения.",
+    "image": null,
+    "sourceIds": [
+      "awri-cold"
+    ]
+  },
+  {
+    "id": "official-winemaking-006",
+    "category": "Технология виноделия",
+    "subcategory": "Углекислотная мацерация",
+    "difficulty": "hard",
+    "question": "Где начинается внутриклеточная ферментация при углекислотной мацерации?",
+    "options": [
+      "Только в бутылочном осадке",
+      "В перегонной колонне",
+      "В целых ягодах в анаэробной среде",
+      "В дубовой пробке"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Внутри целых ягод протекают процессы анаэробного метаболизма.",
+    "image": null,
+    "sourceIds": [
+      "awri-carbonic"
+    ]
+  },
+  {
+    "id": "official-winemaking-007",
+    "category": "Технология виноделия",
+    "subcategory": "Прессование",
+    "difficulty": "easy",
+    "question": "Что разделяет пресс при виноделии?",
+    "options": [
+      "Бутылки по возрасту",
+      "Жидкость и твёрдые части винограда",
+      "Спирт и воду перегонкой",
+      "Белые и красные этикетки"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Прессование отделяет сок или вино от кожицы и других твёрдых частей.",
+    "image": null,
+    "sourceIds": [
+      "wset-colour"
+    ]
+  },
+  {
+    "id": "official-winemaking-008",
+    "category": "Технология виноделия",
+    "subcategory": "Дуб",
+    "difficulty": "medium",
+    "question": "Какие альтернативы бочке могут придать вину дубовый характер?",
+    "options": [
+      "Дубовые клёпки",
+      "Дубовая щепа",
+      "Стеклянные шарики",
+      "Нержавеющая сталь сама по себе"
+    ],
+    "correctAnswers": [
+      0,
+      1
+    ],
+    "explanation": "Древесные альтернативы способны привносить дубовые ароматы без полноценной бочки.",
+    "image": null,
+    "sourceIds": [
+      "wset-wines2"
+    ]
+  },
+  {
+    "id": "official-winemaking-009",
+    "category": "Белое, красное и розовое",
+    "subcategory": "Цвет",
+    "difficulty": "easy",
+    "question": "Определяет ли цвет вина его сладость?",
+    "options": [
+      "Да, белое всегда сладкое",
+      "Да, красное всегда сухое",
+      "Да, розовое всегда полусладкое",
+      "Нет"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Все три цвета могут встречаться в разных уровнях сладости.",
+    "image": null,
+    "sourceIds": [
+      "wset-styles"
+    ]
+  },
+  {
+    "id": "official-winemaking-010",
+    "category": "Белое, красное и розовое",
+    "subcategory": "Тихие вина",
+    "difficulty": "easy",
+    "question": "Что отличает тихое вино от игристого?",
+    "options": [
+      "Обязательное отсутствие спирта",
+      "Обязательная выдержка в новой бочке",
+      "Отсутствие выраженного игристого давления CO₂",
+      "Наличие только белого винограда"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Тихие вина не имеют характерной для игристого устойчивой пены под давлением.",
+    "image": null,
+    "sourceIds": [
+      "wset-styles"
+    ]
+  },
+  {
+    "id": "official-winemaking-011",
+    "category": "Белое, красное и розовое",
+    "subcategory": "Красное виноделие",
+    "difficulty": "medium",
+    "question": "Когда обычно прессуют виноград при классическом красном виноделии?",
+    "options": [
+      "Вместо брожения",
+      "После брожения с кожицей",
+      "Всегда до контакта с кожицей",
+      "Только после бутылочной выдержки"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Классическая схема предполагает брожение с кожицей и последующее прессование.",
+    "image": null,
+    "sourceIds": [
+      "wset-colour"
+    ]
+  },
+  {
+    "id": "official-winemaking-012",
+    "category": "Белое, красное и розовое",
+    "subcategory": "Белое виноделие",
+    "difficulty": "medium",
+    "question": "Как обычно поступают с кожицей при изготовлении обычного белого вина?",
+    "options": [
+      "Отделяют до брожения",
+      "Обязательно держат год после брожения",
+      "Обязательно коптят",
+      "Добавляют вместо дрожжей"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Для большинства белых вин сок ферментируют без длительного контакта с кожицей.",
+    "image": null,
+    "sourceIds": [
+      "wset-colour"
+    ]
+  },
+  {
+    "id": "official-winemaking-013",
+    "category": "Белое, красное и розовое",
+    "subcategory": "Янтарные вина",
+    "difficulty": "medium",
+    "question": "Что часто означает янтарное вино из белого винограда?",
+    "options": [
+      "Вино с обязательным апельсиновым соком",
+      "Любой белый дистиллят",
+      "Только искусственно окрашенное вино",
+      "Вино с продолжительным контактом с кожицей"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Контакт белого винограда с кожицей формирует янтарный цвет и фенольную структуру.",
+    "image": null,
+    "sourceIds": [
+      "awri-skins"
+    ]
+  },
+  {
+    "id": "official-winemaking-014",
+    "category": "Белое, красное и розовое",
+    "subcategory": "Розовое виноделие",
+    "difficulty": "medium",
+    "question": "Какие методы характерны для розовых вин Прованса?",
+    "options": [
+      "Обязательная перегонка",
+      "Обязательное смешивание готового белого и красного",
+      "Прямое прессование",
+      "Короткая холодная мацерация"
+    ],
+    "correctAnswers": [
+      2,
+      3
+    ],
+    "explanation": "CIVP выделяет прямое прессование и холодную мацерацию перед брожением.",
+    "image": null,
+    "sourceIds": [
+      "provence-method"
+    ]
+  },
+  {
+    "id": "official-winemaking-015",
+    "category": "Белое, красное и розовое",
+    "subcategory": "Тело",
+    "difficulty": "medium",
+    "question": "Что обозначает тело вина?",
+    "options": [
+      "Количество виноградных косточек",
+      "Ощущение веса и наполненности во рту",
+      "Форму бутылки",
+      "Только цвет"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Тело — тактильная характеристика, а не визуальная оценка.",
+    "image": null,
+    "sourceIds": [
+      "wset-styles"
+    ]
+  },
+  {
+    "id": "official-winemaking-016",
+    "category": "Белое, красное и розовое",
+    "subcategory": "Выдержка",
+    "difficulty": "hard",
+    "question": "Правильно ли считать, что любое красное вино улучшается с возрастом?",
+    "options": [
+      "Нет, многие предназначены для молодого употребления",
+      "Да, без исключений",
+      "Да, если сменить этикетку",
+      "Только если бутылка прозрачная"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Потенциал выдержки зависит от состава и стиля конкретного вина.",
+    "image": null,
+    "sourceIds": [
+      "wset-ageing"
+    ]
+  },
+  {
+    "id": "official-winemaking-017",
+    "category": "Игристые вина",
+    "subcategory": "Ремюаж",
+    "difficulty": "medium",
+    "question": "Для чего нужен ремюаж?",
+    "options": [
+      "Увеличить сахаристость ягод",
+      "Выполнить перегонку",
+      "Окрасить стекло",
+      "Собрать осадок в горлышке"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Повороты и наклон бутылки перемещают осадок к горлышку.",
+    "image": null,
+    "sourceIds": [
+      "champagne-riddling"
+    ]
+  },
+  {
+    "id": "official-winemaking-018",
+    "category": "Игристые вина",
+    "subcategory": "Дегоржаж",
+    "difficulty": "medium",
+    "question": "Что удаляют при дегоржаже?",
+    "options": [
+      "Весь спирт",
+      "Весь растворённый CO₂",
+      "Осадок из горлышка",
+      "Все ароматические вещества"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Дегоржаж удаляет собранный дрожжевой осадок.",
+    "image": null,
+    "sourceIds": [
+      "champagne-disgorge"
+    ]
+  },
+  {
+    "id": "official-winemaking-019",
+    "category": "Игристые вина",
+    "subcategory": "Автолиз",
+    "difficulty": "hard",
+    "question": "Что означает автолиз дрожжей?",
+    "options": [
+      "Обжиг дуба",
+      "Распад дрожжевых клеток с высвобождением их компонентов",
+      "Спиртовое разбавление",
+      "Газирование из баллона"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "При выдержке компоненты дрожжевых клеток участвуют в развитии вина.",
+    "image": null,
+    "sourceIds": [
+      "champagne-age"
+    ]
+  },
+  {
+    "id": "official-winemaking-020",
+    "category": "Игристые вина",
+    "subcategory": "Резервуарный метод",
+    "difficulty": "easy",
+    "question": "Где типично проходит вторичное брожение Prosecco spumante?",
+    "options": [
+      "В герметичном резервуаре",
+      "В открытой чаше",
+      "В перегонном кубе",
+      "В дубовой пробке"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Метод Мартинотти использует резервуары под давлением.",
+    "image": null,
+    "sourceIds": [
+      "prosecco-method"
+    ]
+  },
+  {
+    "id": "official-winemaking-021",
+    "category": "Игристые вина",
+    "subcategory": "Сладость",
+    "difficulty": "medium",
+    "question": "Какое обозначение Champagne обычно суше: Brut или Extra Dry?",
+    "options": [
+      "Extra Dry",
+      "Одинаковая сладость всегда",
+      "Определить невозможно по категории",
+      "Brut"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Для Brut установлен более низкий диапазон сахара, чем для Extra Dry.",
+    "image": null,
+    "sourceIds": [
+      "champagne-dosage"
+    ]
+  },
+  {
+    "id": "official-winemaking-022",
+    "category": "Игристые вина",
+    "subcategory": "Сахар",
+    "difficulty": "hard",
+    "question": "Какое условие требуется для Champagne Brut Nature?",
+    "options": [
+      "Обязательная сладкая дозировка",
+      "Не менее 32 г/л",
+      "Менее 3 г/л сахара и отсутствие добавленного сахара",
+      "Не менее 50 г/л"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Brut Nature означает очень низкий сахар без добавления сахара при дозаже.",
+    "image": null,
+    "sourceIds": [
+      "champagne-dosage"
+    ]
+  },
+  {
+    "id": "official-winemaking-023",
+    "category": "Игристые вина",
+    "subcategory": "Дозаж",
+    "difficulty": "medium",
+    "question": "Когда обычно выполняют дозаж в традиционном методе?",
+    "options": [
+      "Только после продажи",
+      "После дегоржажа перед окончательной укупоркой",
+      "До выращивания винограда",
+      "Вместо первого брожения"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Дозаж — завершающий этап после удаления осадка.",
+    "image": null,
+    "sourceIds": [
+      "champagne-disgorge"
+    ]
+  },
+  {
+    "id": "official-winemaking-024",
+    "category": "Игристые вина",
+    "subcategory": "Способы",
+    "difficulty": "hard",
+    "question": "Какие вина связаны с вторичным брожением в бутылке?",
+    "options": [
+      "Franciacorta",
+      "Crémant",
+      "Типичное Prosecco по Мартинотти",
+      "Классический тихий Sancerre"
+    ],
+    "correctAnswers": [
+      0,
+      1
+    ],
+    "explanation": "Franciacorta и Crémant производят традиционным методом.",
+    "image": null,
+    "sourceIds": [
+      "franciacorta",
+      "cremant"
+    ]
+  },
+  {
+    "id": "official-winemaking-025",
+    "category": "Шампань",
+    "subcategory": "Сорта и участки",
+    "difficulty": "medium",
+    "question": "Какой сорт особенно связан с Côte des Blancs?",
+    "options": [
+      "Совиньон Блан",
+      "Неббиоло",
+      "Темпранильо",
+      "Шардоне"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "В Côte des Blancs доминирует Шардоне.",
+    "image": null,
+    "sourceIds": [
+      "champagne-grapes"
+    ]
+  },
+  {
+    "id": "official-winemaking-026",
+    "category": "Шампань",
+    "subcategory": "Красные сорта",
+    "difficulty": "medium",
+    "question": "Какие основные сорта Шампани имеют тёмную кожицу?",
+    "options": [
+      "Шардоне",
+      "Совиньон Блан",
+      "Пино Нуар",
+      "Менье"
+    ],
+    "correctAnswers": [
+      2,
+      3
+    ],
+    "explanation": "Пино Нуар и Менье — тёмные сорта, используемые в Champagne.",
+    "image": null,
+    "sourceIds": [
+      "champagne-grapes"
+    ]
+  },
+  {
+    "id": "official-winemaking-027",
+    "category": "Шампань",
+    "subcategory": "Брожение",
+    "difficulty": "medium",
+    "question": "Обязательна ли малолактическая конверсия для любого Champagne?",
+    "options": [
+      "Нет, она в Шампани запрещена",
+      "Нет, производитель может её избежать",
+      "Да, всегда полностью",
+      "Да, но только в бокале"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Комитет Champagne описывает малолактику как стилистический выбор.",
+    "image": null,
+    "sourceIds": [
+      "champagne-ferment"
+    ]
+  },
+  {
+    "id": "official-winemaking-028",
+    "category": "Шампань",
+    "subcategory": "Невинтажное Champagne",
+    "difficulty": "hard",
+    "question": "Минимальный срок созревания Champagne в погребе перед выпуском по Comité Champagne?",
+    "options": [
+      "15 месяцев",
+      "3 месяца",
+      "6 месяцев",
+      "9 месяцев"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Для Champagne установлен минимум 15 месяцев; производители часто выдерживают дольше.",
+    "image": null,
+    "sourceIds": [
+      "champagne-age"
+    ]
+  },
+  {
+    "id": "official-winemaking-029",
+    "category": "Шампань",
+    "subcategory": "Винтажное Champagne",
+    "difficulty": "hard",
+    "question": "Минимальный срок созревания миллезимного Champagne перед выпуском?",
+    "options": [
+      "Три месяца",
+      "Шесть месяцев",
+      "Один год",
+      "Три года"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Для винтажного Champagne Comité Champagne указывает минимум три года.",
+    "image": null,
+    "sourceIds": [
+      "champagne-age"
+    ]
+  },
+  {
+    "id": "official-winemaking-030",
+    "category": "Шампань",
+    "subcategory": "Механизация",
+    "difficulty": "medium",
+    "question": "Может ли ремюаж Champagne выполняться автоматически?",
+    "options": [
+      "Только после продажи",
+      "Только у розового вина",
+      "Да",
+      "Нет, допускается только ручной"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Автоматические установки перемещают осадок по тому же принципу.",
+    "image": null,
+    "sourceIds": [
+      "champagne-riddling"
+    ]
+  },
+  {
+    "id": "official-winemaking-031",
+    "category": "Шампань",
+    "subcategory": "Дозаж",
+    "difficulty": "hard",
+    "question": "Какое Champagne содержит больше сахара: Sec или Demi-Sec?",
+    "options": [
+      "Sec всегда в два раза слаще",
+      "Demi-Sec",
+      "Sec",
+      "Оба всегда без сахара"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Для Demi-Sec указан диапазон 32–50 г/л, для Sec — 17–32 г/л.",
+    "image": null,
+    "sourceIds": [
+      "champagne-dosage"
+    ]
+  },
+  {
+    "id": "official-winemaking-032",
+    "category": "Шампань",
+    "subcategory": "Сахар и стиль",
+    "difficulty": "medium",
+    "question": "Означает ли название Extra Dry полное отсутствие сахара?",
+    "options": [
+      "Нет",
+      "Да",
+      "Только у Champagne",
+      "Да, если бутылка 750 мл"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Extra Dry допускает больше сахара, чем Brut.",
+    "image": null,
+    "sourceIds": [
+      "champagne-dosage"
+    ]
+  },
+  {
+    "id": "official-winemaking-033",
+    "category": "Креман",
+    "subcategory": "География",
+    "difficulty": "easy",
+    "question": "Какой из этих регионов производит Crémant во Франции?",
+    "options": [
+      "Пьемонт",
+      "Мозель",
+      "Мендоса",
+      "Луара"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Crémant de Loire — одно из французских наименований Crémant.",
+    "image": null,
+    "sourceIds": [
+      "cremant-regions"
+    ]
+  },
+  {
+    "id": "official-winemaking-034",
+    "category": "Креман",
+    "subcategory": "География",
+    "difficulty": "medium",
+    "question": "Какие французские регионы имеют наименования Crémant?",
+    "options": [
+      "Риоха",
+      "Шампань как Crémant de Champagne",
+      "Юра",
+      "Лиму"
+    ],
+    "correctAnswers": [
+      2,
+      3
+    ],
+    "explanation": "Юра и Лиму входят в перечень регионов Crémant.",
+    "image": null,
+    "sourceIds": [
+      "cremant-regions"
+    ]
+  },
+  {
+    "id": "official-winemaking-035",
+    "category": "Креман",
+    "subcategory": "Сбор урожая",
+    "difficulty": "medium",
+    "question": "Как собирают виноград для Crémant согласно правилам FNPEC?",
+    "options": [
+      "Исключительно зимой",
+      "Вручную",
+      "Только комбайном",
+      "Только после сушки"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Ручной сбор входит в требования к производству Crémant.",
+    "image": null,
+    "sourceIds": [
+      "cremant"
+    ]
+  },
+  {
+    "id": "official-winemaking-036",
+    "category": "Креман",
+    "subcategory": "Выдержка",
+    "difficulty": "hard",
+    "question": "Минимальная выдержка Crémant на осадке по справке FNPEC?",
+    "options": [
+      "9 месяцев",
+      "1 месяц",
+      "3 месяца",
+      "36 месяцев для всех без исключения"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "FNPEC указывает минимум девять месяцев выдержки на осадке.",
+    "image": null,
+    "sourceIds": [
+      "cremant"
+    ]
+  },
+  {
+    "id": "official-winemaking-037",
+    "category": "Креман",
+    "subcategory": "Выпуск",
+    "difficulty": "hard",
+    "question": "Когда Crémant может поступить в продажу относительно тиража по справке FNPEC?",
+    "options": [
+      "Через неделю",
+      "В тот же день",
+      "Только через 10 лет",
+      "Не ранее 12 месяцев"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Минимальный срок до коммерциализации составляет 12 месяцев после тиража.",
+    "image": null,
+    "sourceIds": [
+      "cremant"
+    ]
+  },
+  {
+    "id": "official-winemaking-038",
+    "category": "Креман",
+    "subcategory": "Цвет",
+    "difficulty": "medium",
+    "question": "Какие цвета допускает защищённое обозначение Crémant?",
+    "options": [
+      "Только оранжевый",
+      "Любой синий",
+      "Белый и розовый",
+      "Только красный"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "FNPEC описывает Crémant как белые или розовые качественные игристые с AOP.",
+    "image": null,
+    "sourceIds": [
+      "cremant"
+    ]
+  },
+  {
+    "id": "official-winemaking-039",
+    "category": "Креман",
+    "subcategory": "Наименование",
+    "difficulty": "medium",
+    "question": "Является ли Crémant названием одного сорта винограда?",
+    "options": [
+      "Да, это тёмный сорт",
+      "Нет",
+      "Да, это синоним Глеры",
+      "Да, это синоним Шардоне"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Это защищённое обозначение игристых вин; состав определяется аппелласьоном.",
+    "image": null,
+    "sourceIds": [
+      "cremant-regions"
+    ]
+  },
+  {
+    "id": "official-winemaking-040",
+    "category": "Креман",
+    "subcategory": "Регионы",
+    "difficulty": "hard",
+    "question": "Какое название действительно относится к Crémant?",
+    "options": [
+      "Crémant de Savoie",
+      "Crémant de Barolo",
+      "Crémant de Speyside",
+      "Crémant de Rioja"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Савойя входит в восемь французских регионов производства Crémant.",
+    "image": null,
+    "sourceIds": [
+      "cremant-regions"
+    ]
+  },
+  {
+    "id": "official-winemaking-041",
+    "category": "Просекко",
+    "subcategory": "Купаж",
+    "difficulty": "medium",
+    "question": "Минимальная доля Глеры для обычного Prosecco DOC?",
+    "options": [
+      "50%",
+      "30%",
+      "10%",
+      "85%"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Доля других разрешённых сортов ограничена 15%.",
+    "image": null,
+    "sourceIds": [
+      "prosecco-rules"
+    ]
+  },
+  {
+    "id": "official-winemaking-042",
+    "category": "Просекко",
+    "subcategory": "Rosé",
+    "difficulty": "medium",
+    "question": "Какой красный сорт разрешён в Prosecco DOC Rosé?",
+    "options": [
+      "Неббиоло",
+      "Санджовезе",
+      "Пино Нуар",
+      "Мальбек"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Для Rosé используют Пино Нуар, винифицированный по-красному.",
+    "image": null,
+    "sourceIds": [
+      "prosecco-rules"
+    ]
+  },
+  {
+    "id": "official-winemaking-043",
+    "category": "Просекко",
+    "subcategory": "Rosé",
+    "difficulty": "hard",
+    "question": "Какова доля Пино Нуар в Prosecco DOC Rosé?",
+    "options": [
+      "100%",
+      "10–15%",
+      "50–70%",
+      "1–3%"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Правила устанавливают 85–90% Глеры и 10–15% Пино Нуар.",
+    "image": null,
+    "sourceIds": [
+      "prosecco-rules"
+    ]
+  },
+  {
+    "id": "official-winemaking-044",
+    "category": "Просекко",
+    "subcategory": "Этикетка",
+    "difficulty": "hard",
+    "question": "Какая надпись обязательна для Prosecco DOC Rosé?",
+    "options": [
+      "Millesimato с годом",
+      "Grand Cru Classé",
+      "Single Malt",
+      "Solera"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Для Rosé обязательно указание Millesimato и года урожая.",
+    "image": null,
+    "sourceIds": [
+      "prosecco-rules"
+    ]
+  },
+  {
+    "id": "official-winemaking-045",
+    "category": "Просекко",
+    "subcategory": "Тихий стиль",
+    "difficulty": "medium",
+    "question": "Существует ли тихий стиль Prosecco DOC?",
+    "options": [
+      "Нет, это невозможно",
+      "Только как креплёное",
+      "Только как дистиллят",
+      "Да, Tranquillo"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Спецификация предусматривает также тихое Prosecco.",
+    "image": null,
+    "sourceIds": [
+      "prosecco-rules"
+    ]
+  },
+  {
+    "id": "official-winemaking-046",
+    "category": "Просекко",
+    "subcategory": "Давление",
+    "difficulty": "easy",
+    "question": "Что означает Frizzante?",
+    "options": [
+      "Перегнанное",
+      "Обязательно сладкое",
+      "Полуигристое",
+      "Креплёное"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Frizzante обозначает полуигристый стиль.",
+    "image": null,
+    "sourceIds": [
+      "prosecco-rules"
+    ]
+  },
+  {
+    "id": "official-winemaking-047",
+    "category": "Просекко",
+    "subcategory": "Производство",
+    "difficulty": "hard",
+    "question": "Минимальная длительность вторичного брожения Prosecco DOC Rosé по описанию консорциума?",
+    "options": [
+      "10 лет",
+      "60 дней",
+      "3 дня",
+      "7 дней"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Консорциум указывает минимум 60 дней для Rosé.",
+    "image": null,
+    "sourceIds": [
+      "prosecco-method"
+    ]
+  },
+  {
+    "id": "official-winemaking-048",
+    "category": "Просекко",
+    "subcategory": "Розовый цвет",
+    "difficulty": "medium",
+    "question": "Откуда берётся цвет Prosecco DOC Rosé?",
+    "options": [
+      "Из красной винификации Пино Нуар",
+      "Из обязательного красителя",
+      "Из контакта с кирпичом",
+      "Из сока белой Глеры без кожицы"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Красный виноматериал Пино Нуар объединяют с Глерой перед вторичным брожением.",
+    "image": null,
+    "sourceIds": [
+      "prosecco-method"
+    ]
+  },
+  {
+    "id": "official-winemaking-049",
+    "category": "Франчакорта",
+    "subcategory": "Сорта",
+    "difficulty": "easy",
+    "question": "Какие сорта используются для Franciacorta?",
+    "options": [
+      "Пино Неро",
+      "Неббиоло",
+      "Темпранильо",
+      "Шардоне"
+    ],
+    "correctAnswers": [
+      0,
+      3
+    ],
+    "explanation": "Шардоне и Пино Неро входят в основу сортового состава.",
+    "image": null,
+    "sourceIds": [
+      "franciacorta"
+    ]
+  },
+  {
+    "id": "official-winemaking-050",
+    "category": "Франчакорта",
+    "subcategory": "Выдержка",
+    "difficulty": "medium",
+    "question": "Минимальная выдержка обычной Franciacorta на осадке?",
+    "options": [
+      "3 месяца",
+      "9 месяцев",
+      "18 месяцев",
+      "1 месяц"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Консорциум устанавливает минимум 18 месяцев.",
+    "image": null,
+    "sourceIds": [
+      "franciacorta"
+    ]
+  },
+  {
+    "id": "official-winemaking-051",
+    "category": "Франчакорта",
+    "subcategory": "Millesimato",
+    "difficulty": "hard",
+    "question": "Минимальная выдержка Franciacorta Millesimato на осадке?",
+    "options": [
+      "15 месяцев",
+      "30 месяцев",
+      "6 месяцев",
+      "12 месяцев"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Для Millesimato требуется не менее 30 месяцев.",
+    "image": null,
+    "sourceIds": [
+      "franciacorta"
+    ]
+  },
+  {
+    "id": "official-winemaking-052",
+    "category": "Франчакорта",
+    "subcategory": "Riserva",
+    "difficulty": "hard",
+    "question": "Минимальная выдержка Franciacorta Riserva на осадке?",
+    "options": [
+      "60 месяцев",
+      "10 месяцев",
+      "18 месяцев",
+      "24 месяца"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Для Riserva установлен минимум 60 месяцев.",
+    "image": null,
+    "sourceIds": [
+      "franciacorta"
+    ]
+  },
+  {
+    "id": "official-winemaking-053",
+    "category": "Франчакорта",
+    "subcategory": "Эрбамат",
+    "difficulty": "hard",
+    "question": "Какой местный сорт разрешён в ограниченной доле для Franciacorta?",
+    "options": [
+      "Альбариньо",
+      "Турига Насьонал",
+      "Карменер",
+      "Эрбамат"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Эрбамат допускается максимум до 10%.",
+    "image": null,
+    "sourceIds": [
+      "franciacorta"
+    ]
+  },
+  {
+    "id": "official-winemaking-054",
+    "category": "Франчакорта",
+    "subcategory": "Сбор урожая",
+    "difficulty": "medium",
+    "question": "Как собирают виноград для Franciacorta согласно описанию метода?",
+    "options": [
+      "Только после замерзания",
+      "Только после подвяливания",
+      "Вручную",
+      "Только комбайном"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Метод предусматривает ручной сбор.",
+    "image": null,
+    "sourceIds": [
+      "franciacorta"
+    ]
+  },
+  {
+    "id": "official-winemaking-055",
+    "category": "Франчакорта",
+    "subcategory": "Климат",
+    "difficulty": "medium",
+    "question": "Какое озеро связано с климатом Франчакорты?",
+    "options": [
+      "Женева",
+      "Изео",
+      "Балатон",
+      "Байкал"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Близость озера Изео влияет на микроклимат региона.",
+    "image": null,
+    "sourceIds": [
+      "franciacorta-terroir"
+    ]
+  },
+  {
+    "id": "official-winemaking-056",
+    "category": "Франчакорта",
+    "subcategory": "Рельеф",
+    "difficulty": "hard",
+    "question": "Какой тип холмов характерен для Франчакорты?",
+    "options": [
+      "Моренные",
+      "Только активные вулканические конусы",
+      "Соляные барханы",
+      "Ледяные айсберги"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Моренный рельеф связан с древними ледниками.",
+    "image": null,
+    "sourceIds": [
+      "franciacorta-terroir"
+    ]
+  },
+  {
+    "id": "official-winemaking-057",
+    "category": "Креплёные вина",
+    "subcategory": "Ruby",
+    "difficulty": "medium",
+    "question": "Какова основная цель выдержки портвейнов Ruby?",
+    "options": [
+      "Добиться полной бесцветности",
+      "Сделать вино игристым",
+      "Удалить весь спирт",
+      "Сохранить глубокий цвет и молодой фруктовый характер"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Для Ruby ограничивают окислительное развитие молодого фруктового профиля.",
+    "image": null,
+    "sourceIds": [
+      "ivdp"
+    ]
+  },
+  {
+    "id": "official-winemaking-058",
+    "category": "Креплёные вина",
+    "subcategory": "Tawny",
+    "difficulty": "medium",
+    "question": "Какие признаки характерны для выдержанных Tawny?",
+    "options": [
+      "Исключительно свежая мята",
+      "Полное отсутствие выдержки",
+      "Окислительное развитие и орехово-сухофруктовые оттенки",
+      "Обязательные дрожжевые пузырьки"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Tawny развивается при выдержке в древесине и приобретает более светлый цвет.",
+    "image": null,
+    "sourceIds": [
+      "ivdp"
+    ]
+  },
+  {
+    "id": "official-winemaking-059",
+    "category": "Креплёные вина",
+    "subcategory": "Портвейн",
+    "difficulty": "hard",
+    "question": "В какой группе IVDP располагает LBV и Vintage?",
+    "options": [
+      "Только сухой херес",
+      "Ruby style",
+      "Только белые вина",
+      "Только игристые"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "LBV и Vintage относятся к рубиновому направлению портвейна.",
+    "image": null,
+    "sourceIds": [
+      "ivdp"
+    ]
+  },
+  {
+    "id": "official-winemaking-060",
+    "category": "Креплёные вина",
+    "subcategory": "Fino",
+    "difficulty": "medium",
+    "question": "Какой тип выдержки определяет Fino?",
+    "options": [
+      "Биологическая под flor",
+      "Только новая обожжённая бочка без дрожжей",
+      "Замораживание",
+      "Подвяливание готового вина"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Fino созревает под дрожжевой плёнкой.",
+    "image": null,
+    "sourceIds": [
+      "sherry-fino"
+    ]
+  },
+  {
+    "id": "official-winemaking-061",
+    "category": "Креплёные вина",
+    "subcategory": "Oloroso",
+    "difficulty": "medium",
+    "question": "Какой тип выдержки характерен для Oloroso?",
+    "options": [
+      "Только постоянная выдержка под flor",
+      "Только бутылочное вторичное брожение",
+      "Полное отсутствие кислорода на всех стадиях",
+      "Окислительный"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Oloroso развивается преимущественно окислительно без защитной плёнки flor.",
+    "image": null,
+    "sourceIds": [
+      "sherry-oloroso"
+    ]
+  },
+  {
+    "id": "official-winemaking-062",
+    "category": "Креплёные вина",
+    "subcategory": "Amontillado",
+    "difficulty": "hard",
+    "question": "Какая последовательность выдержки характерна для Amontillado?",
+    "options": [
+      "Только карбонизация",
+      "Только сушка ягод без брожения",
+      "Биологическая, затем окислительная",
+      "Перегонка, затем заморозка"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Amontillado сочетает две последовательные фазы выдержки.",
+    "image": null,
+    "sourceIds": [
+      "sherry-amontillado"
+    ]
+  },
+  {
+    "id": "official-winemaking-063",
+    "category": "Креплёные вина",
+    "subcategory": "Solera",
+    "difficulty": "hard",
+    "question": "Какова идея системы criaderas y solera?",
+    "options": [
+      "Замена брожения газированием",
+      "Дробное смешивание вин разных стадий выдержки",
+      "Каждый год полное опустошение всех бочек",
+      "Только хранение одного урожая в одной бутылке"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Часть вина отбирают, а объём пополняют более молодыми ступенями.",
+    "image": null,
+    "sourceIds": [
+      "sherry-solera"
+    ]
+  },
+  {
+    "id": "official-winemaking-064",
+    "category": "Креплёные вина",
+    "subcategory": "Pedro Ximénez",
+    "difficulty": "medium",
+    "question": "Как концентрируют ягоды для сладкого хереса Pedro Ximénez?",
+    "options": [
+      "Подвяливают на солнце",
+      "Обязательно замораживают на лозе",
+      "Кипятят с солью",
+      "Разбавляют водой"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Солнечное подвяливание концентрирует сахара и ароматические вещества.",
+    "image": null,
+    "sourceIds": [
+      "sherry-px"
+    ]
+  }
+]

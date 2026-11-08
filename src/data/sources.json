@@ -1,0 +1,737 @@
+[
+  {
+    "id": "wset-geography",
+    "organization": "WSET",
+    "title": "Как география влияет на стиль вина",
+    "url": "https://www.wsetglobal.com/news-insights/insight-opinion/how-does-geography-affect-a-wine-s-style/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "wset-colour",
+    "organization": "WSET",
+    "title": "Что определяет цвет вина",
+    "url": "https://www.wsetglobal.com/news-insights/insight-opinion/what-determines-the-colour-of-wine/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "wset-wine",
+    "organization": "WSET",
+    "title": "Состав и основы вина",
+    "url": "https://www.wsetglobal.com/news-insights/insight-opinion/what-is-wine/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "wset-styles",
+    "organization": "WSET",
+    "title": "Типы и стили вина",
+    "url": "https://www.wsetglobal.com/news-insights/insight-opinion/how-many-wine-types-and-styles-are-there/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "wset-oak",
+    "organization": "WSET",
+    "title": "Дуб в виноделии",
+    "url": "https://www.wsetglobal.com/news-insights/insight-opinion/why-is-oak-used-in-winemaking/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "wset-acidity",
+    "organization": "WSET",
+    "title": "Кислотность вина",
+    "url": "https://www.wsetglobal.com/news-insights/insight-opinion/understanding-acidity-in-wine/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "wset-pairing",
+    "organization": "WSET",
+    "title": "Принципы сочетания еды и вина",
+    "url": "https://www.wsetglobal.com/news-insights/insight-opinion/four-rules-to-masterful-food-and-wine-pairing/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "wset-spice",
+    "organization": "WSET",
+    "title": "Напитки и острая еда",
+    "url": "https://www.wsetglobal.com/news-insights/insight-opinion/how-to-pair-drinks-with-spice/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "wset-storage",
+    "organization": "WSET",
+    "title": "Температура подачи и хранение",
+    "url": "https://www.wsetglobal.com/news-insights/insight-opinion/ideal-serving-temperatures-and-top-tips-for-wine-storage/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "wset-service",
+    "organization": "WSET",
+    "title": "Подача и декантация вина",
+    "url": "https://www.wsetglobal.com/news-insights/insight-opinion/frequently-asked-questions-about-serving-and-decanting-wine/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "wset-ageing",
+    "organization": "WSET",
+    "title": "Зачем выдерживают вино",
+    "url": "https://www.wsetglobal.com/news-insights/insight-opinion/why-do-we-age-wine/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "wset-labels",
+    "organization": "WSET",
+    "title": "Как читать винные этикетки",
+    "url": "https://wsetglobal.com/news-insights/insight-opinion/how-to-read-wine-labels-common-features-on-wine-labels/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "wset-vintage",
+    "organization": "WSET",
+    "title": "Погода и винтаж",
+    "url": "https://www.wsetglobal.com/news-insights/insight-opinion/weather-wine-and-vintages/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "wset-tasting",
+    "organization": "WSET",
+    "title": "Развитие навыков дегустации",
+    "url": "https://www.wsetglobal.com/knowledge-centre/blog/2019/november/how-to-build-your-wine-tasting-skills/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "wset-wines2",
+    "organization": "WSET",
+    "title": "Level 2 Wines: программа занятий, 2023",
+    "url": "https://www.wsetglobal.com/media/13022/wset_l2wines_sessionplans_en_may2023_issue2.pdf",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "awri-mlf",
+    "organization": "Australian Wine Research Institute",
+    "title": "Малолактическая конверсия в белых и игристых винах",
+    "url": "https://www.awri.com.au/files/attachment/mlf-in-white-and-sparkling-wine/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "awri-skins",
+    "organization": "Australian Wine Research Institute",
+    "title": "Контакт с кожицей",
+    "url": "https://www.awri.com.au/industry_support/winemaking_resources/winemaking-practices/winemaking-treatment-skin-contact/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "awri-lees",
+    "organization": "Australian Wine Research Institute",
+    "title": "Выдержка на осадке",
+    "url": "https://www.awri.com.au/industry_support/winemaking_resources/winemaking-practices/winemaking-treatment-lees-contact/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "awri-cold",
+    "organization": "Australian Wine Research Institute",
+    "title": "Холодная мацерация",
+    "url": "https://www.awri.com.au/industry_support/winemaking_resources/winemaking-practices/winemaking-treatment-cold-soak/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "awri-carbonic",
+    "organization": "Australian Wine Research Institute",
+    "title": "Углекислотная мацерация",
+    "url": "https://www.awri.com.au/industry_support/winemaking_resources/winemaking-practices/winemaking-treatment-carbonic-maceration/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "awri-temp",
+    "organization": "Australian Wine Research Institute",
+    "title": "Температура ферментации",
+    "url": "https://www.awri.com.au/industry_support/winemaking_resources/winemaking-practices/fermentation-temperature/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "bourgogne-grapes",
+    "organization": "BIVB / Vins de Bourgogne",
+    "title": "Пино Нуар, Шардоне и другие сорта Бургундии",
+    "url": "https://www.bourgogne-wines.com/wine-and-terroir/our-grape-varietals-our-colors/pinot-noir-and-chardonnay-the-bourgogne-region-s-two-noble-grape-varietals%2C2475%2C9265.html",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "bourgogne-crus",
+    "organization": "BIVB / Vins de Bourgogne",
+    "title": "Классификация аппелласьонов",
+    "url": "https://www.vins-bourgogne.fr/plan-de-site/classification-des-appellations%2C2314%2C12208.html",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "bourgogne-soil",
+    "organization": "BIVB / Vins de Bourgogne",
+    "title": "Геология Шабли",
+    "url": "https://www.vins-bourgogne.fr/vins-et-terroirs/nos-atouts-naturels/geologie/les-heritiers-du-bassin-parisien/chablis-grand-auxerrois-et-chatillonnais-aux-limites-du-bassin-parisien%2C2512%2C9385.html",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "bordeaux-crus",
+    "organization": "CIVB / Bordeaux Wines",
+    "title": "Классификации Бордо",
+    "url": "https://www.bordeaux.com/en/classifications/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "bordeaux-1855",
+    "organization": "CIVB / Bordeaux Wines",
+    "title": "Классификация 1855 года",
+    "url": "https://www.bordeaux.com/en/classifications/classifications-1855/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "bordeaux-grapes",
+    "organization": "CIVB / Bordeaux Wines",
+    "title": "Сорта Бордо",
+    "url": "https://www.bordeaux.com/en/grape-varieties/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "bordeaux-cabernet",
+    "organization": "CIVB / Bordeaux Wines",
+    "title": "Каберне Совиньон",
+    "url": "https://www.bordeaux.com/en/grape-varieties/cabernet-sauvignon/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "bordeaux-merlot",
+    "organization": "CIVB / Bordeaux Wines",
+    "title": "Мерло",
+    "url": "https://www.bordeaux.com/en/grape-varieties/merlot/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "bordeaux-semillon",
+    "organization": "CIVB / Bordeaux Wines",
+    "title": "Семийон",
+    "url": "https://www.bordeaux.com/en/grape-varieties/semillon/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "barolo",
+    "organization": "Consorzio Barolo Barbaresco Alba Langhe e Dogliani",
+    "title": "Barolo DOCG: спецификация",
+    "url": "https://www.langhevini.it/wp-content/uploads/2019/05/Disciplinare-BAROLO-EN.pdf",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "chianti",
+    "organization": "Consorzio Vino Chianti Classico",
+    "title": "Типы Chianti Classico",
+    "url": "https://www.chianticlassico.com/vino/tipologie/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "rioja",
+    "organization": "Consejo Regulador DOCa Rioja",
+    "title": "Классификация по выдержке",
+    "url": "https://riojawine.com/en-gb/blog/classification-of-rioja-wines-according-to-their-ageing/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "rioja-grapes",
+    "organization": "Consejo Regulador DOCa Rioja",
+    "title": "Информационный справочник: сорта и выдержка",
+    "url": "https://riojawine.com/wp-content/uploads/2019/02/INFORMATION-GUIDE-.pdf",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "rias-grapes",
+    "organization": "Consejo Regulador DO Rías Baixas",
+    "title": "Разрешённые сорта",
+    "url": "https://doriasbaixas.com/variedades-de-uva-rias-baixas/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "rias-region",
+    "organization": "Consejo Regulador DO Rías Baixas",
+    "title": "География и пять субзон",
+    "url": "https://doriasbaixas.com/quienes-somos-d-o-rias-baixas/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "dwi-riesling",
+    "organization": "Deutsches Weininstitut",
+    "title": "Рислинг",
+    "url": "https://www.winesofgermany.com/our-wine/grape-varieties/grape-variety/105/riesling",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "dwi-regions",
+    "organization": "Deutsches Weininstitut",
+    "title": "Карта 13 регионов Германии",
+    "url": "https://www.winesofgermany.com/our-regions/region-map",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "dwi-pradikat",
+    "organization": "Deutsches Weininstitut",
+    "title": "Prädikate",
+    "url": "https://www.winesofgermany.com/our-wine/wine-tasting/wine-tasting/449/pr%C3%A4dikate",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "dwi-sweetness",
+    "organization": "Deutsches Weininstitut",
+    "title": "Обозначения сладости",
+    "url": "https://www.winesofgermany.com/our-wine/wine-tasting/wine-tasting/195/levels-of-sweetness-in-german-wines",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "dwi-eiswein",
+    "organization": "Deutsches Weininstitut",
+    "title": "Eiswein",
+    "url": "https://www.winesofgermany.com/our-wine/wine-products/wine-product/418/eiswein",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "dwi-pinot",
+    "organization": "Deutsches Weininstitut",
+    "title": "Spätburgunder / Pinot Noir",
+    "url": "https://www.winesofgermany.com/our-wine/grape-varieties/grape-variety/94/sp%C3%A4tburgunder-pinot-noir/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "portugal-regions",
+    "organization": "ViniPortugal / Wines of Portugal",
+    "title": "Регионы Португалии",
+    "url": "https://winesofportugal.com/en/discover/wine-regions/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "portugal-touriga",
+    "organization": "ViniPortugal / Wines of Portugal",
+    "title": "Турига Насьонал",
+    "url": "https://winesofportugal.com/en/portuguese-wines/grape-varieties/touriga-nacional/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "portugal-verde",
+    "organization": "ViniPortugal / Wines of Portugal",
+    "title": "Vinho Verde",
+    "url": "https://winesofportugal.com/pt/descobrir/regioes-vitivinicolas/vinho-verde/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "nz-marlborough",
+    "organization": "New Zealand Winegrowers",
+    "title": "Регион Мальборо",
+    "url": "https://www.nzwine.com/en/regions/marlborough/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "nz-sauvignon",
+    "organization": "New Zealand Winegrowers",
+    "title": "Совиньон Блан Новой Зеландии",
+    "url": "https://www.nzwine.com/en/winestyles/sauvignonblanc/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "argentina-mendoza",
+    "organization": "Wines of Argentina",
+    "title": "Провинция Мендоса",
+    "url": "https://winesofargentina.org/en/provinces/mendoza",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "wosa",
+    "organization": "Wines of South Africa",
+    "title": "Виноградарство и Пинотаж",
+    "url": "https://www.wosa.co.za/Themes/Content%20Themes/WOSA/Templates/General.aspx?pageidref=2787",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "champagne-grapes",
+    "organization": "Comité Champagne",
+    "title": "Сорта винограда Шампани",
+    "url": "https://www.champagne.fr/en/about-champagne/a-great-blended-wine/champagne-and-its-grape-varieties",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "champagne-soil",
+    "organization": "Comité Champagne",
+    "title": "Почвы Шампани",
+    "url": "https://www.champagne.fr/en/about-champagne/the-champagne-terroir/champagne-and-its-soil",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "champagne-dosage",
+    "organization": "Comité Champagne",
+    "title": "Дозаж и содержание сахара",
+    "url": "https://www.champagne.fr/en/about-champagne/how-champagne-is-made/dosage",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "champagne-age",
+    "organization": "Comité Champagne",
+    "title": "Созревание на осадке",
+    "url": "https://www.champagne.fr/en/about-champagne/how-champagne-is-made/maturation",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "champagne-riddling",
+    "organization": "Comité Champagne",
+    "title": "Ремюаж",
+    "url": "https://www.champagne.fr/en/about-champagne/how-champagne-is-made/riddling",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "champagne-disgorge",
+    "organization": "Comité Champagne",
+    "title": "Дегоржаж",
+    "url": "https://www.champagne.fr/en/about-champagne/how-champagne-is-made/disgorgement",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "champagne-ferment",
+    "organization": "Comité Champagne",
+    "title": "Спиртовая и малолактическая ферментация",
+    "url": "https://www.champagne.fr/en/about-champagne/how-champagne-is-made/fermentation",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "cremant",
+    "organization": "FNPEC",
+    "title": "Правила производства Crémant",
+    "url": "https://cremants.com/le-cremant/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "cremant-regions",
+    "organization": "FNPEC",
+    "title": "Французские регионы Crémant",
+    "url": "https://cremants.com/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "prosecco-rules",
+    "organization": "Consorzio Tutela Prosecco DOC",
+    "title": "Спецификация Prosecco DOC",
+    "url": "https://www.prosecco.wine/en/prosecco/production-regulation/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "prosecco-method",
+    "organization": "Consorzio Tutela Prosecco DOC",
+    "title": "Производство Prosecco DOC",
+    "url": "https://www.prosecco.wine/en/prosecco/discover/winemaking/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "franciacorta",
+    "organization": "Consorzio Franciacorta",
+    "title": "Метод и этапы производства",
+    "url": "https://franciacorta.wine/en/wine/method/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "franciacorta-terroir",
+    "organization": "Consorzio Franciacorta",
+    "title": "Геология и климат",
+    "url": "https://franciacorta.wine/en/wine/geology-climate/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "ivdp",
+    "organization": "Instituto dos Vinhos do Douro e do Porto",
+    "title": "Стили портвейна",
+    "url": "https://www.ivdp.pt/en/wines/port-wines/introduction",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "sherry-fino",
+    "organization": "Consejo Regulador de Jerez",
+    "title": "Fino",
+    "url": "https://www.sherry.wine/sherry-wine/dry-sherry-wines/fino",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "sherry-oloroso",
+    "organization": "Consejo Regulador de Jerez",
+    "title": "Oloroso",
+    "url": "https://www.sherry.wine/sherry-wine/dry-sherry-wines/oloroso",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "sherry-amontillado",
+    "organization": "Consejo Regulador de Jerez",
+    "title": "Amontillado",
+    "url": "https://www.sherry.wine/sherry-wine/dry-sherry-wines/amontillado",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "sherry-solera",
+    "organization": "Consejo Regulador de Jerez",
+    "title": "Система выдержки",
+    "url": "https://www.sherry.wine/sherry-wine/production/ageing",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "sherry-px",
+    "organization": "Consejo Regulador de Jerez",
+    "title": "Pedro Ximénez",
+    "url": "https://www.sherry.wine/sherry-wine/naturally-sweet-sherry-wine/pedro-ximenez",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "provence-method",
+    "organization": "Conseil Interprofessionnel des Vins de Provence",
+    "title": "Производство розовых вин",
+    "url": "https://www.vinsdeprovence.com/en/le-rose/l-elaboration-du-rose",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "provence-guide",
+    "organization": "Conseil Interprofessionnel des Vins de Provence",
+    "title": "Практический справочник вин Прованса",
+    "url": "https://www.vinsdeprovence.com/files/5356acb8/2023_vf_guide_pratique_eng.pdf",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "provence-tasting",
+    "organization": "Conseil Interprofessionnel des Vins de Provence",
+    "title": "Дегустация розовых вин",
+    "url": "https://www.vinsdeprovence.com/le-rose/la-degustation-du-rose",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "wset-spirits2",
+    "organization": "WSET",
+    "title": "Level 2 Spirits: спецификация, 2022",
+    "url": "https://www.wsetglobal.com/media/11713/wset_l2spirits_specification_en_may2022_issue2.pdf",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "wset-spirits3",
+    "organization": "WSET",
+    "title": "Level 3 Spirits: спецификация, 2020",
+    "url": "https://www.wsetglobal.com/media/10041/wset_l3spirits_specification_en_jun2020.pdf",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "wset-barrel",
+    "organization": "WSET",
+    "title": "Выдержка крепких напитков в дубе",
+    "url": "https://www.wsetglobal.com/news-insights/insight-opinion/the-alchemy-of-oak-barrel-ageing-in-spirits/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "wset-world-whisky",
+    "organization": "WSET",
+    "title": "Виски мира и роль климата",
+    "url": "https://www.wsetglobal.com/news-insights/insight-opinion/world-whisky-and-its-global-evolution/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "swa-faq",
+    "organization": "Scotch Whisky Association",
+    "title": "Правила производства Scotch Whisky",
+    "url": "https://www.scotch-whisky.org.uk/discover-scotch/faqs/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "swa-categories",
+    "organization": "Scotch Whisky Association",
+    "title": "Пять категорий Scotch Whisky",
+    "url": "https://www.scotch-whisky.org.uk/discover-scotch/enjoying-scotch/scotch-whisky-categories/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "us-whisky",
+    "organization": "eCFR / Alcohol and Tobacco Tax and Trade Bureau",
+    "title": "27 CFR §5.143: Whisky",
+    "url": "https://www.ecfr.gov/current/title-27/chapter-I/subchapter-A/part-5/subpart-I/section-5.143",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "cognac-faq",
+    "organization": "Bureau National Interprofessionnel du Cognac",
+    "title": "Cognac: вопросы и ответы",
+    "url": "https://www.cognac.fr/faq/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "cognac-rules",
+    "organization": "Bureau National Interprofessionnel du Cognac",
+    "title": "Cognac AOC: возрастные обозначения",
+    "url": "https://www.cognac.fr/decouvrir/spiritueux-unique/une-origine-controlee/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "wset-rum",
+    "organization": "WSET",
+    "title": "История и стили рома",
+    "url": "https://wsetglobal.com/news-insights/insight-opinion/history-of-rum-styles-origins-and-traditions/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "crt",
+    "organization": "Consejo Regulador del Tequila",
+    "title": "Сырьё, производство и классы текилы (испанский оригинал)",
+    "url": "https://www.crt.org.mx/nuestro-tequila/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "mezcal-nom",
+    "organization": "Secretaría de Economía / Diario Oficial de la Federación",
+    "title": "NOM-070-SCFI-2016: Mezcal",
+    "url": "https://www.gob.mx/cms/uploads/attachment/file/559353/NOM-070-SCFI-2016_Bebidas_alcoholicas-Mezcal-Especificaciones.pdf",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "wset-gin",
+    "organization": "WSET",
+    "title": "Можжевельник и стили джина",
+    "url": "https://www.wsetglobal.com/news-insights/insight-opinion/gin-the-spirit-of-juniper/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "wset-gin-flavour",
+    "organization": "WSET",
+    "title": "Способы ароматизации джина",
+    "url": "https://www.wsetglobal.com/news-insights/insight-opinion/understanding-flavours-in-gin/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "wset-vodka",
+    "organization": "WSET",
+    "title": "Сырьё и производство водки",
+    "url": "https://www.wsetglobal.com/knowledge-centre/blog/2024/premium-vodka-and-how-to-savour-it/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "wset-liqueur",
+    "organization": "WSET",
+    "title": "Ликёры и ароматизированные напитки: спецификация Level 2",
+    "url": "https://www.wsetglobal.com/media/6331/wset_l2spirits_specification_en_jun2018.pdf",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "wset-beer",
+    "organization": "WSET",
+    "title": "Основы пива и его компоненты",
+    "url": "https://www.wsetglobal.com/news-insights/insight-opinion/what-is-beer-a-beginner-s-guide/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "wset-beer2",
+    "organization": "WSET",
+    "title": "Level 2 Beer: спецификация, 2023",
+    "url": "https://www.wsetglobal.com/media/14172/wset_l2beer_specification_en_dec2023_issue1.pdf",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "bjcp-intro",
+    "organization": "Beer Judge Certification Program",
+    "title": "Введение в стили пива: редакция 2021",
+    "url": "https://www.bjcp.org/beer-styles/introduction-to-beer-styles/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "bjcp-ipa",
+    "organization": "Beer Judge Certification Program",
+    "title": "2021: 21A American IPA",
+    "url": "https://styles.bjcp.org/bjcp-2021-beer/21/21a-american-ipa",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "bjcp-weiss",
+    "organization": "Beer Judge Certification Program",
+    "title": "2021: 10A Weissbier",
+    "url": "https://styles.bjcp.org/bjcp-2021-beer/10/10a-weissbier",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "bjcp-stout",
+    "organization": "Beer Judge Certification Program",
+    "title": "2021: 15B Irish Stout",
+    "url": "https://styles.bjcp.org/bjcp-2021-beer/15/15b-irish-stout",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "bjcp-pils",
+    "organization": "Beer Judge Certification Program",
+    "title": "2021: 3B Czech Premium Pale Lager",
+    "url": "https://styles.bjcp.org/bjcp-2021-beer/3/3b-czech-premium-pale-lager",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "bjcp-lambic",
+    "organization": "Beer Judge Certification Program",
+    "title": "2021: 23D Lambic",
+    "url": "https://styles.bjcp.org/bjcp-2021-beer/23/23d-lambic",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "bjcp-wit",
+    "organization": "Beer Judge Certification Program",
+    "title": "2021: 24A Witbier",
+    "url": "https://styles.bjcp.org/bjcp-2021-beer/24/24a-witbier",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "bjcp-hazy",
+    "organization": "Beer Judge Certification Program",
+    "title": "2021: 21C Hazy IPA",
+    "url": "https://styles.bjcp.org/bjcp-2021-beer/21/21c-hazy-ipa",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "bjcp-saison",
+    "organization": "Beer Judge Certification Program",
+    "title": "2021: 25B Saison",
+    "url": "https://styles.bjcp.org/bjcp-2021-beer/25/25b-saison",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "bjcp-tripel",
+    "organization": "Beer Judge Certification Program",
+    "title": "2021: 26C Belgian Tripel",
+    "url": "https://styles.bjcp.org/bjcp-2021-beer/26/26c-belgian-tripel",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "bjcp-gueuze",
+    "organization": "Beer Judge Certification Program",
+    "title": "2021: 23E Gueuze",
+    "url": "https://styles.bjcp.org/bjcp-2021-beer/23/23e-gueuze",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "champagne-service",
+    "organization": "Comité Champagne",
+    "title": "Частые вопросы: бокалы и подача",
+    "url": "https://www.champagne.fr/en/champagne-frequently-asked-questions",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "swa-age",
+    "organization": "Scotch Whisky Association",
+    "title": "Возрастные обозначения: руководство, 2025",
+    "url": "https://www.scotch-whisky.org.uk/media/2387/guidance-for-bottlers-and-producers_2025.pdf",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "awri-saignee",
+    "organization": "Australian Wine Research Institute",
+    "title": "Saignée и розовые вина",
+    "url": "https://www.awri.com.au/industry_support/winemaking_resources/winemaking-practices/winemaking-treatment-saignee/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "wset-winter-pairing",
+    "organization": "WSET",
+    "title": "Сочетания: сахар, жир и интенсивность",
+    "url": "https://www.wsetglobal.com/news-insights/insight-opinion/winter-wine-and-food-matching/",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "calvados-aoc",
+    "organization": "Interprofession des Appellations Cidricoles / Calvados France",
+    "title": "Три AOC кальвадоса и терруары Нормандии",
+    "url": "https://drinkcalvados.com/en/discover/the-calvados-appellations/",
+    "checkedAt": "2026-11-09"
+  }
+]

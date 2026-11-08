@@ -1,0 +1,511 @@
+[
+  {
+    "id": "wine-021",
+    "category": "Технология виноделия",
+    "subcategory": "Брожение",
+    "difficulty": "easy",
+    "question": "Что образуют дрожжи из сахара при спиртовом брожении?",
+    "options": [
+      "Этанол и CO₂",
+      "Только воду",
+      "Соль",
+      "Крахмал"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Дрожжи преобразуют сахара преимущественно в этанол и углекислый газ.",
+    "image": null,
+    "sourceIds": [
+      "champagne-ferment"
+    ]
+  },
+  {
+    "id": "wine-022",
+    "category": "Технология виноделия",
+    "subcategory": "Малолактика",
+    "difficulty": "hard",
+    "question": "Что происходит при малолактической конверсии?",
+    "options": [
+      "Спирт становится сахаром",
+      "Вино перегоняют",
+      "Яблочная кислота становится молочной",
+      "Вино газируют"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Бактерии превращают более резкую яблочную кислоту в более мягкую молочную.",
+    "image": null,
+    "sourceIds": [
+      "awri-mlf"
+    ]
+  },
+  {
+    "id": "wine-023",
+    "category": "Белое, красное и розовое",
+    "subcategory": "Красные вина",
+    "difficulty": "easy",
+    "question": "Откуда преимущественно берётся цвет красного вина?",
+    "options": [
+      "Из кожицы ягод",
+      "Из пробки",
+      "Из дрожжей",
+      "Из воды"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "При мацерации пигменты извлекаются из кожицы тёмного винограда.",
+    "image": null,
+    "sourceIds": [
+      "wset-colour"
+    ]
+  },
+  {
+    "id": "wine-024",
+    "category": "Белое, красное и розовое",
+    "subcategory": "Розовые вина",
+    "difficulty": "medium",
+    "question": "Как обычно получают цвет тихого розового вина?",
+    "options": [
+      "Добавлением воды",
+      "Коротким контактом с кожицей",
+      "Только выдержкой",
+      "Перегонкой"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Короткая мацерация или прямое прессование позволяют получить лёгкую окраску.",
+    "image": null,
+    "sourceIds": [
+      "provence-method"
+    ]
+  },
+  {
+    "id": "wine-025",
+    "category": "Игристые вина",
+    "subcategory": "Традиционный метод",
+    "difficulty": "easy",
+    "question": "Где проходит вторичное брожение при традиционном методе?",
+    "options": [
+      "В открытом чане",
+      "В бутылке",
+      "В перегонном кубе",
+      "В бокале"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Вторичное брожение происходит в бутылке, образуя растворённый CO₂.",
+    "image": null,
+    "sourceIds": [
+      "franciacorta"
+    ]
+  },
+  {
+    "id": "wine-026",
+    "category": "Игристые вина",
+    "subcategory": "Выдержка",
+    "difficulty": "medium",
+    "question": "Какие ноты может давать выдержка игристого на дрожжевом осадке?",
+    "options": [
+      "Хлеб и бриошь",
+      "Только свежая мята",
+      "Обязательно уксус",
+      "Только соль"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Автолиз дрожжей способен обогащать вино хлебными и бриошевыми оттенками.",
+    "image": null,
+    "sourceIds": [
+      "champagne-age"
+    ]
+  },
+  {
+    "id": "wine-027",
+    "category": "Шампань",
+    "subcategory": "Сорта",
+    "difficulty": "medium",
+    "question": "Выберите три основных сорта Шампани.",
+    "options": [
+      "Шардоне",
+      "Пино Нуар",
+      "Менье",
+      "Совиньон Блан"
+    ],
+    "correctAnswers": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Шардоне, Пино Нуар и Менье доминируют; разрешены и некоторые другие сорта.",
+    "image": null,
+    "sourceIds": [
+      "champagne-grapes"
+    ]
+  },
+  {
+    "id": "wine-028",
+    "category": "Шампань",
+    "subcategory": "Стили",
+    "difficulty": "medium",
+    "question": "Что означает Blanc de Noirs?",
+    "options": [
+      "Красное сладкое",
+      "Розовое из белых сортов",
+      "Белое из тёмных сортов",
+      "Любое вино из Шардоне"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Blanc de Noirs получают из тёмных сортов с минимальным извлечением цвета.",
+    "image": null,
+    "sourceIds": [
+      "wset-colour"
+    ]
+  },
+  {
+    "id": "wine-029",
+    "category": "Креман",
+    "subcategory": "Метод",
+    "difficulty": "medium",
+    "question": "Какой метод используют для Crémant?",
+    "options": [
+      "Только газирование",
+      "Традиционный",
+      "Перегонку",
+      "Только непрерывный"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Crémant производят традиционным методом с вторичным брожением в бутылке.",
+    "image": null,
+    "sourceIds": [
+      "cremant"
+    ]
+  },
+  {
+    "id": "wine-030",
+    "category": "Креман",
+    "subcategory": "Регионы",
+    "difficulty": "medium",
+    "question": "Какие названия относятся к креманам?",
+    "options": [
+      "Crémant d’Alsace",
+      "Crémant de Loire",
+      "Prosecco DOC",
+      "Cognac"
+    ],
+    "correctAnswers": [
+      0,
+      1
+    ],
+    "explanation": "Эльзас и Луара имеют аппелласьоны Crémant.",
+    "image": null,
+    "sourceIds": [
+      "cremant-regions"
+    ]
+  },
+  {
+    "id": "wine-031",
+    "category": "Просекко",
+    "subcategory": "Сорта",
+    "difficulty": "easy",
+    "question": "Основной сорт Prosecco?",
+    "options": [
+      "Неббиоло",
+      "Рислинг",
+      "Глера",
+      "Сира"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Глера — основной сорт Prosecco.",
+    "image": null,
+    "sourceIds": [
+      "prosecco-rules"
+    ]
+  },
+  {
+    "id": "wine-032",
+    "category": "Просекко",
+    "subcategory": "Метод",
+    "difficulty": "medium",
+    "question": "Какой метод типичен для Prosecco spumante?",
+    "options": [
+      "Шарма—Мартинотти",
+      "Перегонка",
+      "Только традиционный",
+      "Солера"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Большую часть Prosecco spumante производят с вторичным брожением в герметичном резервуаре.",
+    "image": null,
+    "sourceIds": [
+      "prosecco-method"
+    ]
+  },
+  {
+    "id": "wine-033",
+    "category": "Франчакорта",
+    "subcategory": "География",
+    "difficulty": "easy",
+    "question": "Где находится Franciacorta?",
+    "options": [
+      "Тоскана",
+      "Ломбардия",
+      "Риоха",
+      "Шампань"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Franciacorta — итальянский регион в Ломбардии.",
+    "image": null,
+    "sourceIds": [
+      "franciacorta-terroir"
+    ]
+  },
+  {
+    "id": "wine-034",
+    "category": "Франчакорта",
+    "subcategory": "Метод",
+    "difficulty": "medium",
+    "question": "Как производят Franciacorta?",
+    "options": [
+      "Газированием воды",
+      "Перегонкой",
+      "Традиционным методом",
+      "Только открытым брожением"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Franciacorta получают традиционным методом, с вторичным брожением в бутылке.",
+    "image": null,
+    "sourceIds": [
+      "franciacorta"
+    ]
+  },
+  {
+    "id": "wine-035",
+    "category": "Креплёные вина",
+    "subcategory": "Портвейн",
+    "difficulty": "medium",
+    "question": "Почему классический портвейн сохраняет сладость?",
+    "options": [
+      "Крепление останавливает брожение",
+      "Дуб создаёт сахар",
+      "Добавляют мёд обязательно",
+      "Не происходит брожения"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Добавление виноградного спирта во время брожения сохраняет часть сахара.",
+    "image": null,
+    "sourceIds": [
+      "ivdp"
+    ]
+  },
+  {
+    "id": "wine-036",
+    "category": "Креплёные вина",
+    "subcategory": "Херес",
+    "difficulty": "hard",
+    "question": "Что такое flor?",
+    "options": [
+      "Краситель",
+      "Вид пробки",
+      "Дрожжевая плёнка",
+      "Известняковый осадок"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Flor — плёнка дрожжей, участвующая в биологической выдержке хереса.",
+    "image": null,
+    "sourceIds": [
+      "sherry-fino"
+    ]
+  },
+  {
+    "id": "wine-037",
+    "category": "Дегустация",
+    "subcategory": "Танины",
+    "difficulty": "easy",
+    "question": "Как обычно ощущаются танины?",
+    "options": [
+      "Как сладость",
+      "Как сухость и вязкость",
+      "Как пузырьки",
+      "Как соль"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Танины взаимодействуют с белками слюны и вызывают вяжущее ощущение.",
+    "image": null,
+    "sourceIds": [
+      "wset-wine"
+    ]
+  },
+  {
+    "id": "wine-038",
+    "category": "Дегустация",
+    "subcategory": "Структура",
+    "difficulty": "easy",
+    "question": "Что относится к структуре вина во вкусе?",
+    "options": [
+      "Кислотность",
+      "Танины",
+      "Тело",
+      "Цвет этикетки"
+    ],
+    "correctAnswers": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Кислотность, танины и тело оценивают при дегустации во рту.",
+    "image": null,
+    "sourceIds": [
+      "wset-tasting"
+    ]
+  },
+  {
+    "id": "wine-039",
+    "category": "Винный сервис",
+    "subcategory": "Декантация",
+    "difficulty": "easy",
+    "question": "Зачем декантируют зрелое вино с осадком?",
+    "options": [
+      "Повысить крепость",
+      "Отделить осадок",
+      "Добавить сахар",
+      "Обязательно нагреть"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Осторожная декантация позволяет отделить вино от осадка.",
+    "image": null,
+    "sourceIds": [
+      "wset-service"
+    ]
+  },
+  {
+    "id": "wine-040",
+    "category": "Винный сервис",
+    "subcategory": "Бокалы",
+    "difficulty": "easy",
+    "question": "За какую часть бокала удобно держаться, чтобы меньше нагревать вино?",
+    "options": [
+      "За ножку",
+      "За чашу всей ладонью",
+      "За край чаши",
+      "За вино"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Удерживая бокал за ножку, вы меньше нагреваете содержимое.",
+    "image": "illustrations/tasting.svg",
+    "sourceIds": [
+      "champagne-service"
+    ]
+  },
+  {
+    "id": "wine-041",
+    "category": "Гастрономические сочетания",
+    "subcategory": "Десерт",
+    "difficulty": "medium",
+    "question": "Как обычно подбирают сладость вина к десерту?",
+    "options": [
+      "Вино не менее сладкое",
+      "Всегда самое сухое",
+      "Только красное",
+      "Только безалкогольное"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Менее сладкое, чем десерт, вино может казаться резким или горьким.",
+    "image": null,
+    "sourceIds": [
+      "wset-winter-pairing"
+    ]
+  },
+  {
+    "id": "wine-042",
+    "category": "Гастрономические сочетания",
+    "subcategory": "Интенсивность",
+    "difficulty": "easy",
+    "question": "Какой принцип полезен при подборе вина к блюду?",
+    "options": [
+      "Баланс интенсивности",
+      "Всегда самое крепкое вино",
+      "Всегда самое дорогое",
+      "Только совпадение цвета"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Сопоставимая интенсивность помогает вину и блюду не подавлять друг друга.",
+    "image": null,
+    "sourceIds": [
+      "wset-styles"
+    ]
+  },
+  {
+    "id": "wine-043",
+    "category": "Винная терминология",
+    "subcategory": "Винтаж",
+    "difficulty": "easy",
+    "question": "Что означает винтаж?",
+    "options": [
+      "Год розлива",
+      "Год урожая",
+      "Возраст бочки",
+      "Объём бутылки"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Винтаж обозначает год урожая винограда.",
+    "image": null,
+    "sourceIds": [
+      "wset-labels"
+    ]
+  },
+  {
+    "id": "wine-044",
+    "category": "Винная терминология",
+    "subcategory": "Купаж",
+    "difficulty": "easy",
+    "question": "Что такое купажирование?",
+    "options": [
+      "Смешивание вин или компонентов",
+      "Заморозка",
+      "Только фильтрация",
+      "Только декантация"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Купажирование объединяет компоненты для создания нужного стиля и баланса.",
+    "image": null,
+    "sourceIds": [
+      "bordeaux-merlot"
+    ]
+  }
+]

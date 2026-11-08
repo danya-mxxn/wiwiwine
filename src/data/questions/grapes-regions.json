@@ -1,0 +1,428 @@
+[
+  {
+    "id": "wine-001",
+    "category": "Виноградные сорта",
+    "subcategory": "Красные",
+    "difficulty": "easy",
+    "question": "Из какого сорта делают Бароло?",
+    "options": [
+      "Санджовезе",
+      "Неббиоло",
+      "Мерло",
+      "Барбера"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Бароло производят из Неббиоло в Пьемонте.",
+    "image": null,
+    "sourceIds": [
+      "barolo"
+    ]
+  },
+  {
+    "id": "wine-002",
+    "category": "Виноградные сорта",
+    "subcategory": "Белые",
+    "difficulty": "easy",
+    "question": "Какие сорта являются белыми?",
+    "options": [
+      "Рислинг",
+      "Шардоне",
+      "Сира",
+      "Мерло"
+    ],
+    "correctAnswers": [
+      0,
+      1
+    ],
+    "explanation": "Рислинг и Шардоне — белые сорта. Сира и Мерло — красные.",
+    "image": null,
+    "sourceIds": [
+      "bourgogne-grapes",
+      "dwi-riesling"
+    ]
+  },
+  {
+    "id": "wine-003",
+    "category": "Винодельческие регионы",
+    "subcategory": "Климат",
+    "difficulty": "medium",
+    "question": "Что помогает винограду сохранять кислотность?",
+    "options": [
+      "Прохладные ночи",
+      "Постоянная жара",
+      "Сушка ягод",
+      "Очень поздний сбор в жару"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Прохладные ночи замедляют расход органических кислот в ягодах.",
+    "image": null,
+    "sourceIds": [
+      "wset-geography"
+    ]
+  },
+  {
+    "id": "wine-004",
+    "category": "Винодельческие регионы",
+    "subcategory": "Аргентина",
+    "difficulty": "easy",
+    "question": "В какой стране находится Мендоса?",
+    "options": [
+      "Чили",
+      "Аргентина",
+      "Испания",
+      "Италия"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Мендоса — винодельческий регион Аргентины у подножия Анд.",
+    "image": null,
+    "sourceIds": [
+      "argentina-mendoza"
+    ]
+  },
+  {
+    "id": "wine-005",
+    "category": "Почвы и терруар",
+    "subcategory": "Почвы",
+    "difficulty": "medium",
+    "question": "Какая почва обычно лучше отводит воду?",
+    "options": [
+      "Гравийная",
+      "Плотная глинистая",
+      "Заболоченная",
+      "Все одинаково"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Гравий хорошо дренируется. Реальные условия зависят также от рельефа и глубины почвы.",
+    "image": null,
+    "sourceIds": [
+      "wset-geography"
+    ]
+  },
+  {
+    "id": "wine-006",
+    "category": "Почвы и терруар",
+    "subcategory": "Терруар",
+    "difficulty": "hard",
+    "question": "Какие природные факторы входят в терруар?",
+    "options": [
+      "Климат",
+      "Почва",
+      "Рельеф",
+      "Цена бутылки"
+    ],
+    "correctAnswers": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Терруар связывает природные условия участка, в том числе климат, почву и рельеф.",
+    "image": null,
+    "sourceIds": [
+      "wset-geography"
+    ]
+  },
+  {
+    "id": "wine-007",
+    "category": "Grand Cru и классификации",
+    "subcategory": "Бургундия",
+    "difficulty": "medium",
+    "question": "Что классифицирует Grand Cru в Бургундии?",
+    "options": [
+      "Виноградник и его аппелласьон",
+      "Цвет бутылки",
+      "Срок работы хозяйства",
+      "Возраст пробки"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Бургундская иерархия связана с происхождением вина и классификацией участков.",
+    "image": null,
+    "sourceIds": [
+      "bourgogne-crus"
+    ]
+  },
+  {
+    "id": "wine-008",
+    "category": "Grand Cru и классификации",
+    "subcategory": "Системы",
+    "difficulty": "hard",
+    "question": "Совпадают ли системы Grand Cru в Бургундии и Бордо?",
+    "options": [
+      "Да, полностью",
+      "Нет, системы различаются",
+      "В Бордо нет классификаций",
+      "Термин только для игристого"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "В Бургундии классифицируют участки; в Бордо существуют различные системы классификации хозяйств и аппелласьонов.",
+    "image": null,
+    "sourceIds": [
+      "bourgogne-crus",
+      "bordeaux-crus"
+    ]
+  },
+  {
+    "id": "wine-009",
+    "category": "Франция",
+    "subcategory": "Бургундия",
+    "difficulty": "easy",
+    "question": "Основной красный сорт Кот-д’Ор?",
+    "options": [
+      "Пино Нуар",
+      "Мерло",
+      "Сира",
+      "Темпранильо"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Красные вина Кот-д’Ор прежде всего связаны с Пино Нуар.",
+    "image": null,
+    "sourceIds": [
+      "bourgogne-grapes"
+    ]
+  },
+  {
+    "id": "wine-010",
+    "category": "Франция",
+    "subcategory": "Луара",
+    "difficulty": "medium",
+    "question": "Из какого сорта делают белый Sancerre?",
+    "options": [
+      "Шенен Блан",
+      "Совиньон Блан",
+      "Вионье",
+      "Семийон"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Белый Sancerre производится из Совиньон Блан.",
+    "image": null,
+    "sourceIds": [
+      "wset-wines2"
+    ]
+  },
+  {
+    "id": "wine-011",
+    "category": "Италия",
+    "subcategory": "Тоскана",
+    "difficulty": "easy",
+    "question": "Главный сорт Кьянти?",
+    "options": [
+      "Неббиоло",
+      "Санджовезе",
+      "Глера",
+      "Корвина"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Санджовезе составляет основу вин Chianti.",
+    "image": null,
+    "sourceIds": [
+      "wset-wines2"
+    ]
+  },
+  {
+    "id": "wine-012",
+    "category": "Италия",
+    "subcategory": "Венето",
+    "difficulty": "medium",
+    "question": "Что такое appassimento?",
+    "options": [
+      "Подвяливание винограда",
+      "Перегонка",
+      "Замораживание",
+      "Газирование"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Подвяливание концентрирует вещества ягод. Этот приём используют для Amarone.",
+    "image": null,
+    "sourceIds": [
+      "wset-wines2"
+    ]
+  },
+  {
+    "id": "wine-013",
+    "category": "Испания",
+    "subcategory": "Риоха",
+    "difficulty": "easy",
+    "question": "Какой сорт особенно важен для Риохи?",
+    "options": [
+      "Темпранильо",
+      "Мальбек",
+      "Гаме",
+      "Пинотаж"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Темпранильо — ведущий красный сорт Риохи.",
+    "image": null,
+    "sourceIds": [
+      "rioja-grapes"
+    ]
+  },
+  {
+    "id": "wine-014",
+    "category": "Испания",
+    "subcategory": "Галисия",
+    "difficulty": "medium",
+    "question": "Какой сорт связан с Rías Baixas?",
+    "options": [
+      "Глера",
+      "Альбариньо",
+      "Неббиоло",
+      "Сира"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Альбариньо — ведущий белый сорт этого атлантического региона.",
+    "image": null,
+    "sourceIds": [
+      "rias-grapes"
+    ]
+  },
+  {
+    "id": "wine-015",
+    "category": "Германия",
+    "subcategory": "Мозель",
+    "difficulty": "easy",
+    "question": "Какой сорт особенно известен в Мозеле?",
+    "options": [
+      "Рислинг",
+      "Сира",
+      "Мальбек",
+      "Гарнача"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Рислинг — ключевой сорт Мозеля.",
+    "image": null,
+    "sourceIds": [
+      "dwi-riesling"
+    ]
+  },
+  {
+    "id": "wine-016",
+    "category": "Германия",
+    "subcategory": "Этикетка",
+    "difficulty": "medium",
+    "question": "Что означает trocken?",
+    "options": [
+      "Сладкое",
+      "Игристое",
+      "Сухое",
+      "Креплёное"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Trocken обозначает сухое вино согласно требованиям к сахару и кислотности.",
+    "image": null,
+    "sourceIds": [
+      "dwi-sweetness"
+    ]
+  },
+  {
+    "id": "wine-017",
+    "category": "Португалия",
+    "subcategory": "Дору",
+    "difficulty": "easy",
+    "question": "Где находится долина Дору?",
+    "options": [
+      "Испания",
+      "Франция",
+      "Португалия",
+      "Италия"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Дору — винодельческий регион Португалии, родина портвейна.",
+    "image": null,
+    "sourceIds": [
+      "portugal-regions"
+    ]
+  },
+  {
+    "id": "wine-018",
+    "category": "Португалия",
+    "subcategory": "Сорта",
+    "difficulty": "medium",
+    "question": "Какой сорт типичен для красных вин Дору?",
+    "options": [
+      "Турига Насьонал",
+      "Глера",
+      "Рислинг",
+      "Гаме"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Турига Насьонал — важный красный сорт Португалии.",
+    "image": null,
+    "sourceIds": [
+      "portugal-touriga"
+    ]
+  },
+  {
+    "id": "wine-019",
+    "category": "Новый Свет",
+    "subcategory": "Новая Зеландия",
+    "difficulty": "easy",
+    "question": "С каким сортом особенно связан Мальборо?",
+    "options": [
+      "Неббиоло",
+      "Совиньон Блан",
+      "Гарнача",
+      "Барбера"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Мальборо известен ароматными винами из Совиньон Блан.",
+    "image": null,
+    "sourceIds": [
+      "nz-sauvignon"
+    ]
+  },
+  {
+    "id": "wine-020",
+    "category": "Новый Свет",
+    "subcategory": "Южная Африка",
+    "difficulty": "medium",
+    "question": "Какие сорта являются родителями Пинотажа?",
+    "options": [
+      "Пино Нуар",
+      "Сенсо",
+      "Мерло",
+      "Сира"
+    ],
+    "correctAnswers": [
+      0,
+      1
+    ],
+    "explanation": "Пинотаж выведен в Южной Африке скрещиванием Пино Нуар и Сенсо.",
+    "image": null,
+    "sourceIds": [
+      "wosa"
+    ]
+  }
+]

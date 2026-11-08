@@ -1,0 +1,1695 @@
+[
+  {
+    "id": "official-regions-001",
+    "category": "Виноградные сорта",
+    "subcategory": "Бордоские сорта",
+    "difficulty": "medium",
+    "question": "Какие сорта являются родителями Каберне Совиньон?",
+    "options": [
+      "Мерло и Шардоне",
+      "Сира и Гренаш",
+      "Гаме и Алиготе",
+      "Каберне Фран и Совиньон Блан"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Каберне Совиньон возник при естественном скрещивании этих двух сортов.",
+    "image": null,
+    "sourceIds": [
+      "bordeaux-cabernet"
+    ]
+  },
+  {
+    "id": "official-regions-002",
+    "category": "Виноградные сорта",
+    "subcategory": "Созревание",
+    "difficulty": "medium",
+    "question": "Как Каберне Совиньон обычно созревает относительно Мерло в Бордо?",
+    "options": [
+      "Всегда в тот же день",
+      "Он не созревает в Бордо",
+      "Позже",
+      "Раньше"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Каберне Совиньон — более позднеспелый сорт.",
+    "image": null,
+    "sourceIds": [
+      "bordeaux-cabernet"
+    ]
+  },
+  {
+    "id": "official-regions-003",
+    "category": "Виноградные сорта",
+    "subcategory": "Белые сорта",
+    "difficulty": "easy",
+    "question": "Какой белый сорт особенно связан с благородно-сладкими винами Бордо?",
+    "options": [
+      "Пинотаж",
+      "Семийон",
+      "Темпранильо",
+      "Мальбек"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Семийон восприимчив к благородной гнили и важен для сладких бордоских вин.",
+    "image": null,
+    "sourceIds": [
+      "bordeaux-semillon"
+    ]
+  },
+  {
+    "id": "official-regions-004",
+    "category": "Виноградные сорта",
+    "subcategory": "Бургундия",
+    "difficulty": "easy",
+    "question": "Какие два сорта доминируют в Бургундии?",
+    "options": [
+      "Шардоне и Пино Нуар",
+      "Рислинг и Сира",
+      "Глера и Мерло",
+      "Мальбек и Турига Насьонал"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Шардоне и Пино Нуар — главные сорта региона.",
+    "image": null,
+    "sourceIds": [
+      "bourgogne-grapes"
+    ]
+  },
+  {
+    "id": "official-regions-005",
+    "category": "Виноградные сорта",
+    "subcategory": "Бургундия",
+    "difficulty": "medium",
+    "question": "Какой из сортов относится к белым сортам Бургундии?",
+    "options": [
+      "Гаме",
+      "Мурведр",
+      "Неббиоло",
+      "Алиготе"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Алиготе — белый сорт, традиционно выращиваемый в Бургундии.",
+    "image": null,
+    "sourceIds": [
+      "bourgogne-grapes"
+    ]
+  },
+  {
+    "id": "official-regions-006",
+    "category": "Виноградные сорта",
+    "subcategory": "Германия",
+    "difficulty": "easy",
+    "question": "Какой сорт скрывается за названием Spätburgunder?",
+    "options": [
+      "Пинотаж",
+      "Шираз",
+      "Пино Нуар",
+      "Мерло"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Spätburgunder — немецкое название Пино Нуар.",
+    "image": null,
+    "sourceIds": [
+      "dwi-pinot"
+    ]
+  },
+  {
+    "id": "official-regions-007",
+    "category": "Виноградные сорта",
+    "subcategory": "Рислинг",
+    "difficulty": "medium",
+    "question": "Какое свойство обычно является важной чертой Рислинга?",
+    "options": [
+      "Обязательная дубовая выдержка",
+      "Выраженная кислотность",
+      "Обязательная высокая танинность",
+      "Неспособность давать сладкие вина"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Рислинг известен живой кислотностью и широким диапазоном сладости.",
+    "image": null,
+    "sourceIds": [
+      "dwi-riesling"
+    ]
+  },
+  {
+    "id": "official-regions-008",
+    "category": "Виноградные сорта",
+    "subcategory": "Португалия",
+    "difficulty": "hard",
+    "question": "Какие свойства кожицы Турига Насьонал отмечает ViniPortugal?",
+    "options": [
+      "Толстая кожица с большим количеством пигментов и танинов",
+      "Полностью бесцветная кожица",
+      "Отсутствие фенольных соединений",
+      "Кожица растворяется до сбора"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Толстая кожица способствует насыщенному цвету и структуре вина.",
+    "image": null,
+    "sourceIds": [
+      "portugal-touriga"
+    ]
+  },
+  {
+    "id": "official-regions-009",
+    "category": "Винодельческие регионы",
+    "subcategory": "Новая Зеландия",
+    "difficulty": "easy",
+    "question": "В какой стране находится винодельческий регион Мальборо?",
+    "options": [
+      "Австралия",
+      "ЮАР",
+      "Канада",
+      "Новая Зеландия"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Мальборо — крупнейший винодельческий регион Новой Зеландии.",
+    "image": null,
+    "sourceIds": [
+      "nz-marlborough"
+    ]
+  },
+  {
+    "id": "official-regions-010",
+    "category": "Винодельческие регионы",
+    "subcategory": "Бордо",
+    "difficulty": "easy",
+    "question": "К какому французскому региону относится Пойяк?",
+    "options": [
+      "Эльзас",
+      "Юра",
+      "Бордо",
+      "Шампань"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Пойяк — бордоский аппелласьон, известный красными винами.",
+    "image": null,
+    "sourceIds": [
+      "bordeaux-1855"
+    ]
+  },
+  {
+    "id": "official-regions-011",
+    "category": "Винодельческие регионы",
+    "subcategory": "Германия",
+    "difficulty": "easy",
+    "question": "Какие из этих названий относятся к винодельческим регионам Германии?",
+    "options": [
+      "Мендоса",
+      "Мозель",
+      "Рейнгау",
+      "Риоха"
+    ],
+    "correctAnswers": [
+      1,
+      2
+    ],
+    "explanation": "Мозель и Рейнгау входят в 13 немецких винодельческих регионов.",
+    "image": null,
+    "sourceIds": [
+      "dwi-regions"
+    ]
+  },
+  {
+    "id": "official-regions-012",
+    "category": "Винодельческие регионы",
+    "subcategory": "Влияние высоты",
+    "difficulty": "medium",
+    "question": "Как обычно меняется температура с увеличением высоты виноградника?",
+    "options": [
+      "Снижается",
+      "Неизбежно повышается",
+      "Всегда остаётся одинаковой",
+      "Перестаёт зависеть от климата"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Высота может создавать более прохладные условия даже в тёплых широтах.",
+    "image": null,
+    "sourceIds": [
+      "wset-geography"
+    ]
+  },
+  {
+    "id": "official-regions-013",
+    "category": "Винодельческие регионы",
+    "subcategory": "Океан",
+    "difficulty": "medium",
+    "question": "Что обычно делают близлежащие крупные водоёмы с температурой?",
+    "options": [
+      "Всегда создают пустыню",
+      "Полностью устраняют осадки",
+      "Исключают заморозки при любых условиях",
+      "Смягчают температурные крайности"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Вода медленно нагревается и остывает, оказывая смягчающее влияние.",
+    "image": null,
+    "sourceIds": [
+      "wset-geography"
+    ]
+  },
+  {
+    "id": "official-regions-014",
+    "category": "Винодельческие регионы",
+    "subcategory": "Испания",
+    "difficulty": "medium",
+    "question": "В какой части Испании находится Rías Baixas?",
+    "options": [
+      "На Канарских островах",
+      "В центре Ла-Манчи",
+      "В Галисии на северо-западе",
+      "В Андалусии на юге"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "DO Rías Baixas расположена в Галисии у Атлантики.",
+    "image": null,
+    "sourceIds": [
+      "rias-region"
+    ]
+  },
+  {
+    "id": "official-regions-015",
+    "category": "Винодельческие регионы",
+    "subcategory": "Португалия",
+    "difficulty": "medium",
+    "question": "Какие названия относятся к винодельческим регионам Португалии?",
+    "options": [
+      "Мозель",
+      "Дору",
+      "Алентежу",
+      "Шабли"
+    ],
+    "correctAnswers": [
+      1,
+      2
+    ],
+    "explanation": "Дору и Алентежу входят в винодельческую карту Португалии.",
+    "image": null,
+    "sourceIds": [
+      "portugal-regions"
+    ]
+  },
+  {
+    "id": "official-regions-016",
+    "category": "Винодельческие регионы",
+    "subcategory": "Мальборо",
+    "difficulty": "hard",
+    "question": "Какие долины входят в субрегионы Мальборо?",
+    "options": [
+      "Wairau Valley",
+      "Awatere Valley",
+      "Napa Valley",
+      "Barossa Valley"
+    ],
+    "correctAnswers": [
+      0,
+      1
+    ],
+    "explanation": "Wairau и Awatere — субрегионы Мальборо.",
+    "image": null,
+    "sourceIds": [
+      "nz-marlborough"
+    ]
+  },
+  {
+    "id": "official-regions-017",
+    "category": "Почвы и терруар",
+    "subcategory": "Шампань",
+    "difficulty": "easy",
+    "question": "Какая осадочная порода особенно характерна для Шампани?",
+    "options": [
+      "Обсидиан",
+      "Антрацит",
+      "Каменная соль",
+      "Мел"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Меловые подпочвы важны для многих виноградников Шампани.",
+    "image": null,
+    "sourceIds": [
+      "champagne-soil"
+    ]
+  },
+  {
+    "id": "official-regions-018",
+    "category": "Почвы и терруар",
+    "subcategory": "Водный режим",
+    "difficulty": "medium",
+    "question": "Почему пористый мел полезен лозе?",
+    "options": [
+      "Он заменяет фотосинтез",
+      "Он исключает потребность в корнях",
+      "Он сочетает дренаж с запасанием воды",
+      "Он полностью непроницаем для воды"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Пористая структура мела помогает регулировать водоснабжение лозы.",
+    "image": null,
+    "sourceIds": [
+      "champagne-soil"
+    ]
+  },
+  {
+    "id": "official-regions-019",
+    "category": "Почвы и терруар",
+    "subcategory": "Геология",
+    "difficulty": "medium",
+    "question": "Какое происхождение имеет мел Шампани?",
+    "options": [
+      "Продукт сгорания торфа",
+      "Остатки морских микроорганизмов",
+      "Застывшая лава",
+      "Искусственный цемент"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Мел образован морскими осадками.",
+    "image": null,
+    "sourceIds": [
+      "champagne-soil"
+    ]
+  },
+  {
+    "id": "official-regions-020",
+    "category": "Почвы и терруар",
+    "subcategory": "Шабли",
+    "difficulty": "medium",
+    "question": "С каким геологическим названием особенно связано Шабли?",
+    "options": [
+      "Киммеридж",
+      "Базальтовое плато Декан",
+      "Соляной купол",
+      "Гранитный щит Балтики"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Киммериджские известняки и мергели характерны для Шабли.",
+    "image": null,
+    "sourceIds": [
+      "bourgogne-soil"
+    ]
+  },
+  {
+    "id": "official-regions-021",
+    "category": "Почвы и терруар",
+    "subcategory": "Рельеф",
+    "difficulty": "medium",
+    "question": "Что означает экспозиция склона виноградника?",
+    "options": [
+      "Год посадки лозы",
+      "Количество бутылок",
+      "Способ обжига бочки",
+      "Направление, в которое обращён склон"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Экспозиция влияет на получаемое солнечное излучение.",
+    "image": null,
+    "sourceIds": [
+      "wset-geography"
+    ]
+  },
+  {
+    "id": "official-regions-022",
+    "category": "Почвы и терруар",
+    "subcategory": "Терруар и погода",
+    "difficulty": "hard",
+    "question": "Чем винтажная погода отличается от климата?",
+    "options": [
+      "Это постоянная схема осадков за десятилетия",
+      "Это сорт винограда",
+      "Это условия конкретного года",
+      "Это только тип почвы"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Климат описывает долговременные условия, погода винтажа — отдельный сезон.",
+    "image": null,
+    "sourceIds": [
+      "wset-vintage"
+    ]
+  },
+  {
+    "id": "official-regions-023",
+    "category": "Почвы и терруар",
+    "subcategory": "Галисия",
+    "difficulty": "medium",
+    "question": "Какой океан оказывает важное влияние на терруар Rías Baixas?",
+    "options": [
+      "Северный Ледовитый",
+      "Атлантический",
+      "Тихий",
+      "Индийский"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Rías Baixas находится под выраженным атлантическим влиянием.",
+    "image": null,
+    "sourceIds": [
+      "rias-region"
+    ]
+  },
+  {
+    "id": "official-regions-024",
+    "category": "Почвы и терруар",
+    "subcategory": "Франчакорта",
+    "difficulty": "hard",
+    "question": "Какой процесс сформировал характерный моренный ландшафт Франчакорты?",
+    "options": [
+      "Движение древнего ледника",
+      "Извержение действующего вулкана",
+      "Отложение морской соли на лозах",
+      "Современная добыча угля"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Холмы Франчакорты имеют ледниковое, моренное происхождение.",
+    "image": null,
+    "sourceIds": [
+      "franciacorta-terroir"
+    ]
+  },
+  {
+    "id": "official-regions-025",
+    "category": "Grand Cru и классификации",
+    "subcategory": "Иерархия",
+    "difficulty": "easy",
+    "question": "Что выше в бургундской иерархии: Premier Cru или Grand Cru?",
+    "options": [
+      "Premier Cru",
+      "Это синонимы",
+      "Уровень зависит только от цены",
+      "Grand Cru"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Grand Cru — вершина бургундской иерархии аппелласьонов.",
+    "image": null,
+    "sourceIds": [
+      "bourgogne-crus"
+    ]
+  },
+  {
+    "id": "official-regions-026",
+    "category": "Grand Cru и классификации",
+    "subcategory": "Бургундия",
+    "difficulty": "medium",
+    "question": "Как соотносится Premier Cru с коммунальным аппелласьоном Бургундии?",
+    "options": [
+      "Это только марка производителя",
+      "Это синоним регионального вина",
+      "Это выделенный классифицированный Climat внутри Village AOC",
+      "Это всегда отдельная страна"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Premier Cru выделяет определённые участки внутри коммунального аппелласьона.",
+    "image": null,
+    "sourceIds": [
+      "bourgogne-crus"
+    ]
+  },
+  {
+    "id": "official-regions-027",
+    "category": "Grand Cru и классификации",
+    "subcategory": "Шабли",
+    "difficulty": "hard",
+    "question": "Сколько Climats может быть указано для Chablis Grand Cru?",
+    "options": [
+      "Двадцать",
+      "Семь",
+      "Тринадцать",
+      "Одиннадцать"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Единый аппелласьон Chablis Grand Cru включает семь именованных Climats.",
+    "image": null,
+    "sourceIds": [
+      "bourgogne-crus"
+    ]
+  },
+  {
+    "id": "official-regions-028",
+    "category": "Grand Cru и классификации",
+    "subcategory": "Бордо",
+    "difficulty": "easy",
+    "question": "С каким годом связана историческая классификация Médoc и Sauternes?",
+    "options": [
+      "1855",
+      "1936",
+      "2009",
+      "1976"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Классификацию подготовили для Парижской всемирной выставки 1855 года.",
+    "image": null,
+    "sourceIds": [
+      "bordeaux-1855"
+    ]
+  },
+  {
+    "id": "official-regions-029",
+    "category": "Grand Cru и классификации",
+    "subcategory": "Охват классификации",
+    "difficulty": "hard",
+    "question": "Какие вина включены в бордоскую классификацию 1855 года?",
+    "options": [
+      "Сладкие Sauternes и Barsac",
+      "Все вина Сент-Эмильона",
+      "Все вина Португалии",
+      "Красные Médoc и Haut-Brion"
+    ],
+    "correctAnswers": [
+      0,
+      3
+    ],
+    "explanation": "Система охватывает эти красные и сладкие белые вина, а не всё Бордо.",
+    "image": null,
+    "sourceIds": [
+      "bordeaux-1855"
+    ]
+  },
+  {
+    "id": "official-regions-030",
+    "category": "Grand Cru и классификации",
+    "subcategory": "Бордо",
+    "difficulty": "hard",
+    "question": "Какое хозяйство Graves входит в красную классификацию 1855 года?",
+    "options": [
+      "Château Cheval Blanc",
+      "Château Ausone",
+      "Château Haut-Brion",
+      "Château Pétrus"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Haut-Brion — исключение среди красных хозяйств, преимущественно расположенных в Médoc.",
+    "image": null,
+    "sourceIds": [
+      "bordeaux-1855"
+    ]
+  },
+  {
+    "id": "official-regions-031",
+    "category": "Grand Cru и классификации",
+    "subcategory": "Качество",
+    "difficulty": "medium",
+    "question": "Означает ли отсутствие классификации, что хозяйство Бордо не может делать выдающееся вино?",
+    "options": [
+      "Только если вино сладкое",
+      "Нет",
+      "Да, всегда",
+      "Только если вино белое"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "CIVB отдельно отмечает, что отсутствие классификации не исключает высокого качества.",
+    "image": null,
+    "sourceIds": [
+      "bordeaux-crus"
+    ]
+  },
+  {
+    "id": "official-regions-032",
+    "category": "Grand Cru и классификации",
+    "subcategory": "Правильное сравнение",
+    "difficulty": "hard",
+    "question": "Почему нельзя считать все надписи Grand Cru одной универсальной шкалой?",
+    "options": [
+      "У регионов разные правила и объекты классификации",
+      "Термин везде означает 10 лет выдержки",
+      "Термин везде означает один сорт",
+      "Термин определяет только объём"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Системы Бордо и Бургундии устроены по-разному.",
+    "image": null,
+    "sourceIds": [
+      "bordeaux-crus",
+      "bourgogne-crus"
+    ]
+  },
+  {
+    "id": "official-regions-033",
+    "category": "Франция",
+    "subcategory": "Бургундия",
+    "difficulty": "easy",
+    "question": "Главный белый сорт Бургундии?",
+    "options": [
+      "Темпранильо",
+      "Неббиоло",
+      "Гренаш Нуар",
+      "Шардоне"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Шардоне — ведущий белый сорт Бургундии.",
+    "image": null,
+    "sourceIds": [
+      "bourgogne-grapes"
+    ]
+  },
+  {
+    "id": "official-regions-034",
+    "category": "Франция",
+    "subcategory": "Бордо",
+    "difficulty": "medium",
+    "question": "Какие сорта входят в основные красные сорта Бордо?",
+    "options": [
+      "Рислинг",
+      "Глера",
+      "Мерло",
+      "Каберне Совиньон"
+    ],
+    "correctAnswers": [
+      2,
+      3
+    ],
+    "explanation": "Мерло и Каберне Совиньон лежат в основе многих красных бордоских купажей.",
+    "image": null,
+    "sourceIds": [
+      "bordeaux-grapes"
+    ]
+  },
+  {
+    "id": "official-regions-035",
+    "category": "Франция",
+    "subcategory": "Бордо",
+    "difficulty": "medium",
+    "question": "Какие сорта важны для белых вин Бордо?",
+    "options": [
+      "Гаме",
+      "Совиньон Блан",
+      "Семийон",
+      "Пинотаж"
+    ],
+    "correctAnswers": [
+      1,
+      2
+    ],
+    "explanation": "Совиньон Блан и Семийон — важные белые сорта региона.",
+    "image": null,
+    "sourceIds": [
+      "bordeaux-grapes"
+    ]
+  },
+  {
+    "id": "official-regions-036",
+    "category": "Франция",
+    "subcategory": "Шампань",
+    "difficulty": "easy",
+    "question": "В какой стране находится регион Champagne?",
+    "options": [
+      "Франция",
+      "Италия",
+      "Германия",
+      "Испания"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Наименование Champagne связано с установленной зоной Франции.",
+    "image": null,
+    "sourceIds": [
+      "champagne-grapes"
+    ]
+  },
+  {
+    "id": "official-regions-037",
+    "category": "Франция",
+    "subcategory": "Прованс",
+    "difficulty": "easy",
+    "question": "Каким цветом тихих вин особенно известен Прованс?",
+    "options": [
+      "Только чёрным",
+      "Только синим",
+      "Исключительно янтарным",
+      "Розовым"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Прованс специализируется на розовых винах.",
+    "image": null,
+    "sourceIds": [
+      "provence-guide"
+    ]
+  },
+  {
+    "id": "official-regions-038",
+    "category": "Франция",
+    "subcategory": "Сотерн",
+    "difficulty": "medium",
+    "question": "Какой гриб может участвовать в создании благородно-сладких вин Сотерна?",
+    "options": [
+      "Penicillium roqueforti",
+      "Aspergillus oryzae обязательно",
+      "Botrytis cinerea",
+      "Saccharomyces только как плесень"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Благородная гниль концентрирует сахар и ароматические вещества ягод.",
+    "image": null,
+    "sourceIds": [
+      "bordeaux-semillon"
+    ]
+  },
+  {
+    "id": "official-regions-039",
+    "category": "Франция",
+    "subcategory": "Пино Нуар",
+    "difficulty": "medium",
+    "question": "Может ли Пино Нуар дать белое вино при отсутствии мацерации?",
+    "options": [
+      "Только с красителем",
+      "Да",
+      "Нет, никогда",
+      "Только после перегонки"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Бесцветный сок Пино Нуар позволяет производить белое вино.",
+    "image": null,
+    "sourceIds": [
+      "bourgogne-grapes"
+    ]
+  },
+  {
+    "id": "official-regions-040",
+    "category": "Франция",
+    "subcategory": "Красные купажи",
+    "difficulty": "hard",
+    "question": "Зачем Мерло и Каберне Совиньон объединяют в купаже?",
+    "options": [
+      "Чтобы сочетать мягкость и фруктовость со структурой",
+      "Чтобы исключить брожение",
+      "Чтобы сделать вино без спирта",
+      "Чтобы автоматически повысить класс AOC"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Компоненты купажа могут дополнять структуру и аромат друг друга.",
+    "image": null,
+    "sourceIds": [
+      "bordeaux-merlot"
+    ]
+  },
+  {
+    "id": "official-regions-041",
+    "category": "Италия",
+    "subcategory": "Пьемонт",
+    "difficulty": "easy",
+    "question": "В каком регионе производят Barolo?",
+    "options": [
+      "Сицилия",
+      "Лацио",
+      "Апулия",
+      "Пьемонт"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Barolo DOCG происходит из Пьемонта.",
+    "image": null,
+    "sourceIds": [
+      "barolo"
+    ]
+  },
+  {
+    "id": "official-regions-042",
+    "category": "Италия",
+    "subcategory": "Barolo",
+    "difficulty": "hard",
+    "question": "Каков минимальный общий срок выдержки Barolo по спецификации?",
+    "options": [
+      "12 месяцев",
+      "24 месяца",
+      "38 месяцев",
+      "9 месяцев"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Для Barolo предусмотрено 38 месяцев, включая минимум 18 в древесине.",
+    "image": null,
+    "sourceIds": [
+      "barolo"
+    ]
+  },
+  {
+    "id": "official-regions-043",
+    "category": "Италия",
+    "subcategory": "Barolo Riserva",
+    "difficulty": "hard",
+    "question": "Минимальная общая выдержка Barolo Riserva?",
+    "options": [
+      "36 месяцев",
+      "62 месяца",
+      "18 месяцев",
+      "30 месяцев"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Спецификация устанавливает 62 месяца общей выдержки.",
+    "image": null,
+    "sourceIds": [
+      "barolo"
+    ]
+  },
+  {
+    "id": "official-regions-044",
+    "category": "Италия",
+    "subcategory": "Chianti Classico",
+    "difficulty": "medium",
+    "question": "Минимальная доля Санджовезе в Chianti Classico Annata?",
+    "options": [
+      "80%",
+      "50%",
+      "15%",
+      "100% без исключений"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Для Annata требуется минимум 80% Санджовезе.",
+    "image": null,
+    "sourceIds": [
+      "chianti"
+    ]
+  },
+  {
+    "id": "official-regions-045",
+    "category": "Италия",
+    "subcategory": "Gran Selezione",
+    "difficulty": "hard",
+    "question": "Минимальная доля Санджовезе в Chianti Classico Gran Selezione по действующим правилам консорциума?",
+    "options": [
+      "60%",
+      "40%",
+      "15%",
+      "90%"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Gran Selezione требует минимум 90% Санджовезе.",
+    "image": null,
+    "sourceIds": [
+      "chianti"
+    ]
+  },
+  {
+    "id": "official-regions-046",
+    "category": "Италия",
+    "subcategory": "Chianti Classico",
+    "difficulty": "medium",
+    "question": "Какая категория требует не менее 30 месяцев выдержки?",
+    "options": [
+      "Любой Pinot Grigio",
+      "Prosecco Frizzante",
+      "Gran Selezione",
+      "Annata"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Для Gran Selezione установлено минимум 30 месяцев, включая бутылочную выдержку.",
+    "image": null,
+    "sourceIds": [
+      "chianti"
+    ]
+  },
+  {
+    "id": "official-regions-047",
+    "category": "Италия",
+    "subcategory": "Chianti Classico",
+    "difficulty": "medium",
+    "question": "Какие сорта допускаются в оставшейся части купажа Chianti Classico Annata?",
+    "options": [
+      "Любые сорта без ограничений",
+      "Разрешённые красные сорта",
+      "Только белые сорта",
+      "Только Глера"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Правила допускают до 20% других разрешённых красных сортов.",
+    "image": null,
+    "sourceIds": [
+      "chianti"
+    ]
+  },
+  {
+    "id": "official-regions-048",
+    "category": "Италия",
+    "subcategory": "Игристые",
+    "difficulty": "easy",
+    "question": "Какие из этих названий относятся к итальянским игристым?",
+    "options": [
+      "Prosecco",
+      "Franciacorta",
+      "Champagne",
+      "Crémant de Loire"
+    ],
+    "correctAnswers": [
+      0,
+      1
+    ],
+    "explanation": "Prosecco и Franciacorta — итальянские наименования.",
+    "image": null,
+    "sourceIds": [
+      "prosecco-rules",
+      "franciacorta"
+    ]
+  },
+  {
+    "id": "official-regions-049",
+    "category": "Испания",
+    "subcategory": "Сорта Риохи",
+    "difficulty": "medium",
+    "question": "Какие сорта разрешены для красных вин Риохи?",
+    "options": [
+      "Грасиано",
+      "Глера",
+      "Рислинг",
+      "Гарнача"
+    ],
+    "correctAnswers": [
+      0,
+      3
+    ],
+    "explanation": "Гарнача и Грасиано входят в красные сорта DOCa Rioja.",
+    "image": null,
+    "sourceIds": [
+      "rioja-grapes"
+    ]
+  },
+  {
+    "id": "official-regions-050",
+    "category": "Испания",
+    "subcategory": "Белая Риоха",
+    "difficulty": "medium",
+    "question": "Какой сорт также известен как Виура?",
+    "options": [
+      "Пинотаж",
+      "Сира",
+      "Макабео",
+      "Неббиоло"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Виура — местное название Макабео.",
+    "image": null,
+    "sourceIds": [
+      "rioja-grapes"
+    ]
+  },
+  {
+    "id": "official-regions-051",
+    "category": "Испания",
+    "subcategory": "Выдержка",
+    "difficulty": "hard",
+    "question": "Минимальный срок в дубе для красного Rioja Crianza?",
+    "options": [
+      "Десять лет",
+      "Один год",
+      "Один месяц",
+      "Три месяца"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Красная Crianza проводит не менее года в дубовой бочке.",
+    "image": null,
+    "sourceIds": [
+      "rioja-grapes"
+    ]
+  },
+  {
+    "id": "official-regions-052",
+    "category": "Испания",
+    "subcategory": "Риоха",
+    "difficulty": "medium",
+    "question": "Что описывают слова Crianza, Reserva и Gran Reserva?",
+    "options": [
+      "Категории выдержки",
+      "Только цвет",
+      "Только сорт",
+      "Тип почвы без других условий"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Эти обозначения связаны с регламентированной выдержкой.",
+    "image": null,
+    "sourceIds": [
+      "rioja"
+    ]
+  },
+  {
+    "id": "official-regions-053",
+    "category": "Испания",
+    "subcategory": "Альбариньо",
+    "difficulty": "medium",
+    "question": "Обязательно ли все белые вина Rías Baixas являются моносортовым Альбариньо?",
+    "options": [
+      "Да, без исключений",
+      "Нет, Альбариньо запрещён",
+      "Да, это название цвета",
+      "Нет, разрешены и купажи"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "DO допускает ряд белых сортов и многосортовые вина.",
+    "image": null,
+    "sourceIds": [
+      "rias-grapes"
+    ]
+  },
+  {
+    "id": "official-regions-054",
+    "category": "Испания",
+    "subcategory": "Субзоны",
+    "difficulty": "hard",
+    "question": "Какое название относится к субзоне Rías Baixas?",
+    "options": [
+      "Speyside",
+      "Valpolicella",
+      "Val do Salnés",
+      "Pauillac"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Val do Salnés — одна из пяти субзон DO.",
+    "image": null,
+    "sourceIds": [
+      "rias-region"
+    ]
+  },
+  {
+    "id": "official-regions-055",
+    "category": "Испания",
+    "subcategory": "Белые сорта",
+    "difficulty": "medium",
+    "question": "Какие сорта разрешены в белых винах Rías Baixas?",
+    "options": [
+      "Темпранильо",
+      "Лоурейра",
+      "Трейшадура",
+      "Мальбек"
+    ],
+    "correctAnswers": [
+      1,
+      2
+    ],
+    "explanation": "Лоурейра и Трейшадура входят в местные разрешённые белые сорта.",
+    "image": null,
+    "sourceIds": [
+      "rias-grapes"
+    ]
+  },
+  {
+    "id": "official-regions-056",
+    "category": "Испания",
+    "subcategory": "Херес",
+    "difficulty": "easy",
+    "question": "К какому типу вина относится сухой Fino?",
+    "options": [
+      "Херес",
+      "Просекко",
+      "Бароло",
+      "Мозельский Рислинг"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Fino — стиль сухого хереса.",
+    "image": null,
+    "sourceIds": [
+      "sherry-fino"
+    ]
+  },
+  {
+    "id": "official-regions-057",
+    "category": "Германия",
+    "subcategory": "Регионы",
+    "difficulty": "easy",
+    "question": "Сколько основных винодельческих регионов показывает карта DWI?",
+    "options": [
+      "5",
+      "8",
+      "27",
+      "13"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Deutsches Weininstitut выделяет 13 регионов.",
+    "image": null,
+    "sourceIds": [
+      "dwi-regions"
+    ]
+  },
+  {
+    "id": "official-regions-058",
+    "category": "Германия",
+    "subcategory": "Красные сорта",
+    "difficulty": "easy",
+    "question": "Как называется Пино Нуар в Германии?",
+    "options": [
+      "Müller-Thurgau",
+      "Kerner",
+      "Spätburgunder",
+      "Silvaner"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Немецкое название Пино Нуар — Spätburgunder.",
+    "image": null,
+    "sourceIds": [
+      "dwi-pinot"
+    ]
+  },
+  {
+    "id": "official-regions-059",
+    "category": "Германия",
+    "subcategory": "Рислинг",
+    "difficulty": "medium",
+    "question": "Может ли немецкий Рислинг быть сухим?",
+    "options": [
+      "Только с добавленным газом",
+      "Да",
+      "Нет",
+      "Только после перегонки"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Рислинг выпускают в разных уровнях сладости, включая сухой.",
+    "image": null,
+    "sourceIds": [
+      "dwi-riesling"
+    ]
+  },
+  {
+    "id": "official-regions-060",
+    "category": "Германия",
+    "subcategory": "Prädikat",
+    "difficulty": "hard",
+    "question": "С чем связаны минимальные требования Prädikat?",
+    "options": [
+      "С массой сусла, отражающей сахаристость винограда",
+      "Только с возрастом бочки",
+      "Только с ценой",
+      "Только с цветом бутылки"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Для Prädikat определены минимальные показатели массы сусла.",
+    "image": null,
+    "sourceIds": [
+      "dwi-pradikat"
+    ]
+  },
+  {
+    "id": "official-regions-061",
+    "category": "Германия",
+    "subcategory": "Eiswein",
+    "difficulty": "medium",
+    "question": "Что происходит с виноградом для немецкого Eiswein?",
+    "options": [
+      "Его обязательно сушат в печи",
+      "Его коптят торфом",
+      "Его перегоняют до прессования",
+      "Он естественно замерзает на лозе"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Для Eiswein собирают и прессуют естественно замёрзшие ягоды.",
+    "image": null,
+    "sourceIds": [
+      "dwi-eiswein"
+    ]
+  },
+  {
+    "id": "official-regions-062",
+    "category": "Германия",
+    "subcategory": "Eiswein",
+    "difficulty": "hard",
+    "question": "Какой температурный ориентир для сбора Eiswein приводит DWI?",
+    "options": [
+      "+18 °C",
+      "0 °C без замерзания",
+      "−7 °C или холоднее",
+      "+7 °C"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "DWI указывает температуру не выше −7 °C.",
+    "image": null,
+    "sourceIds": [
+      "dwi-eiswein"
+    ]
+  },
+  {
+    "id": "official-regions-063",
+    "category": "Германия",
+    "subcategory": "Сладость",
+    "difficulty": "hard",
+    "question": "Почему сухое немецкое вино иногда может содержать более 4 г/л сахара?",
+    "options": [
+      "Сахар исчезает при розливе",
+      "Правила учитывают также общую кислотность",
+      "Для красных сахар не считают",
+      "Любой Prädikat автоматически сухой"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Для trocken возможен предел до 9 г/л при соблюдении соотношения сахара и кислотности.",
+    "image": null,
+    "sourceIds": [
+      "dwi-sweetness"
+    ]
+  },
+  {
+    "id": "official-regions-064",
+    "category": "Германия",
+    "subcategory": "Рейнгау",
+    "difficulty": "medium",
+    "question": "Какой сорт занимает особое место в Рейнгау?",
+    "options": [
+      "Рислинг",
+      "Глера",
+      "Неббиоло",
+      "Турига Франка"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Рислинг доминирует в насаждениях Рейнгау.",
+    "image": null,
+    "sourceIds": [
+      "dwi-riesling"
+    ]
+  },
+  {
+    "id": "official-regions-065",
+    "category": "Португалия",
+    "subcategory": "Vinho Verde",
+    "difficulty": "easy",
+    "question": "Означает ли Vinho Verde, что вино обязательно зелёного цвета?",
+    "options": [
+      "Да, это требование к окраске",
+      "Да, его делают из листьев",
+      "Это название сорта",
+      "Нет, это название региона и вина"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Vinho Verde — португальский регион с разными стилями вин.",
+    "image": null,
+    "sourceIds": [
+      "portugal-verde"
+    ]
+  },
+  {
+    "id": "official-regions-066",
+    "category": "Португалия",
+    "subcategory": "Климат",
+    "difficulty": "medium",
+    "question": "Какое влияние особенно характерно для Vinho Verde?",
+    "options": [
+      "Арктическое",
+      "Тропическое муссонное",
+      "Атлантическое",
+      "Пустынное"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Регион отличается прохладным влажным атлантическим климатом.",
+    "image": null,
+    "sourceIds": [
+      "portugal-verde"
+    ]
+  },
+  {
+    "id": "official-regions-067",
+    "category": "Португалия",
+    "subcategory": "География",
+    "difficulty": "easy",
+    "question": "Какие островные регионы входят в винную карту Португалии?",
+    "options": [
+      "Сардиния",
+      "Мадейра",
+      "Азорские острова",
+      "Сицилия"
+    ],
+    "correctAnswers": [
+      1,
+      2
+    ],
+    "explanation": "Мадейра и Азоры — португальские архипелаги с виноделием.",
+    "image": null,
+    "sourceIds": [
+      "portugal-regions"
+    ]
+  },
+  {
+    "id": "official-regions-068",
+    "category": "Португалия",
+    "subcategory": "Красные сорта",
+    "difficulty": "medium",
+    "question": "Для чего пригоден Турига Насьонал?",
+    "options": [
+      "Для структурных красных вин",
+      "Только для белого сока без ферментации",
+      "Исключительно для пива",
+      "Только для кальвадоса"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Турига Насьонал даёт насыщенные красные вина с потенциалом выдержки.",
+    "image": null,
+    "sourceIds": [
+      "portugal-touriga"
+    ]
+  },
+  {
+    "id": "official-regions-069",
+    "category": "Португалия",
+    "subcategory": "Происхождение сорта",
+    "difficulty": "hard",
+    "question": "Какие два региона претендуют на историческое происхождение Турига Насьонал?",
+    "options": [
+      "Риоха и Херес",
+      "Шампань и Шабли",
+      "Мозель и Рейнгау",
+      "Дан и Дору"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "ViniPortugal отмечает притязания Дана и Дору на происхождение сорта.",
+    "image": null,
+    "sourceIds": [
+      "portugal-touriga"
+    ]
+  },
+  {
+    "id": "official-regions-070",
+    "category": "Португалия",
+    "subcategory": "Портвейн",
+    "difficulty": "medium",
+    "question": "Какие две большие группы стилей портвейна выделяет IVDP по выдержке?",
+    "options": [
+      "Ale и Lager",
+      "Brut и Sec только",
+      "Ruby и Tawny",
+      "Blanco и Reposado"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "IVDP различает рубиновый и тони-стили по направлению развития при выдержке.",
+    "image": null,
+    "sourceIds": [
+      "ivdp"
+    ]
+  },
+  {
+    "id": "official-regions-071",
+    "category": "Португалия",
+    "subcategory": "Портвейн",
+    "difficulty": "medium",
+    "question": "Бывает ли белый портвейн?",
+    "options": [
+      "Только безалкогольный",
+      "Да",
+      "Нет",
+      "Только искусственно обесцвеченный"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "IVDP описывает белые портвейны разных стилей и сладости.",
+    "image": null,
+    "sourceIds": [
+      "ivdp"
+    ]
+  },
+  {
+    "id": "official-regions-072",
+    "category": "Португалия",
+    "subcategory": "Регионы",
+    "difficulty": "easy",
+    "question": "К какой стране относятся Дан и Байррада?",
+    "options": [
+      "Португалия",
+      "Испания",
+      "Франция",
+      "Германия"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Дан и Байррада — регионы Португалии.",
+    "image": null,
+    "sourceIds": [
+      "portugal-regions"
+    ]
+  },
+  {
+    "id": "official-regions-073",
+    "category": "Новый Свет",
+    "subcategory": "Аргентина",
+    "difficulty": "easy",
+    "question": "С каким сортом особенно ассоциируется Мендоса?",
+    "options": [
+      "Глера",
+      "Алиготе",
+      "Мюллер-Тургау",
+      "Мальбек"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Мальбек — один из ведущих сортов Мендосы.",
+    "image": null,
+    "sourceIds": [
+      "argentina-mendoza"
+    ]
+  },
+  {
+    "id": "official-regions-074",
+    "category": "Новый Свет",
+    "subcategory": "Анды",
+    "difficulty": "medium",
+    "question": "Какая горная система определяет ландшафт Мендосы?",
+    "options": [
+      "Пиренеи",
+      "Карпаты",
+      "Анды",
+      "Альпы"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Виноградники Мендосы расположены у подножия Анд.",
+    "image": null,
+    "sourceIds": [
+      "argentina-mendoza"
+    ]
+  },
+  {
+    "id": "official-regions-075",
+    "category": "Новый Свет",
+    "subcategory": "Новая Зеландия",
+    "difficulty": "medium",
+    "question": "Как ночное охлаждение Мальборо влияет на стиль Совиньон Блан?",
+    "options": [
+      "Заменяет вторичное брожение",
+      "Помогает сохранить яркость ароматов и кислотность",
+      "Всегда устраняет кислотность",
+      "Делает вино креплёным"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Большой суточный перепад температур способствует свежести и ароматике.",
+    "image": null,
+    "sourceIds": [
+      "nz-sauvignon"
+    ]
+  },
+  {
+    "id": "official-regions-076",
+    "category": "Новый Свет",
+    "subcategory": "ЮАР",
+    "difficulty": "easy",
+    "question": "В какой стране был создан Пинотаж?",
+    "options": [
+      "ЮАР",
+      "Аргентина",
+      "США",
+      "Новая Зеландия"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Пинотаж — южноафриканское скрещивание Пино Нуар и Сенсо.",
+    "image": null,
+    "sourceIds": [
+      "wosa"
+    ]
+  },
+  {
+    "id": "official-regions-077",
+    "category": "Новый Свет",
+    "subcategory": "Мальборо",
+    "difficulty": "medium",
+    "question": "Какой субрегион Мальборо обычно прохладнее и ветренее Wairau?",
+    "options": [
+      "Pauillac",
+      "Douro Superior",
+      "Val do Salnés",
+      "Awatere Valley"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Awatere отличается более прохладным, сухим и ветреным климатом.",
+    "image": null,
+    "sourceIds": [
+      "nz-marlborough"
+    ]
+  },
+  {
+    "id": "official-regions-078",
+    "category": "Новый Свет",
+    "subcategory": "Новая Зеландия",
+    "difficulty": "medium",
+    "question": "Ограничивается ли виноделие Мальборо Совиньон Блан?",
+    "options": [
+      "Да, регион выпускает только одно вино",
+      "Нет, но разрешён только Мерло",
+      "Нет, выращивают также Пино Нуар, Шардоне и другие сорта",
+      "Да, другие сорта запрещены"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Регион производит несколько сортов и стилей вина.",
+    "image": null,
+    "sourceIds": [
+      "nz-marlborough"
+    ]
+  },
+  {
+    "id": "official-regions-079",
+    "category": "Новый Свет",
+    "subcategory": "Мендоса",
+    "difficulty": "hard",
+    "question": "Какие красные сорта, помимо Мальбека, выделяет Wines of Argentina в Мендосе?",
+    "options": [
+      "Рислинг",
+      "Бонарда",
+      "Каберне Совиньон",
+      "Глера"
+    ],
+    "correctAnswers": [
+      1,
+      2
+    ],
+    "explanation": "Бонарда и Каберне Совиньон относятся к важным сортам провинции.",
+    "image": null,
+    "sourceIds": [
+      "argentina-mendoza"
+    ]
+  },
+  {
+    "id": "official-regions-080",
+    "category": "Новый Свет",
+    "subcategory": "Совиньон Блан",
+    "difficulty": "hard",
+    "question": "Как более тёплые северные регионы Новой Зеландии обычно меняют стиль Совиньон Блан?",
+    "options": [
+      "Дают более спелые и округлые стили",
+      "Всегда дают больше танинов, чем Бароло",
+      "Исключают фруктовые ароматы",
+      "Делают все вина сладкими"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "NZ Wine отмечает более спелый профиль в тёплых северных условиях.",
+    "image": null,
+    "sourceIds": [
+      "nz-sauvignon"
+    ]
+  }
+]

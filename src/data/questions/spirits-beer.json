@@ -1,0 +1,642 @@
+[
+  {
+    "id": "wine-045",
+    "category": "Основы крепкого алкоголя",
+    "subcategory": "Дистилляция",
+    "difficulty": "easy",
+    "question": "Зачем перегоняют сброженное сырьё?",
+    "options": [
+      "Концентрировать спирт и отбирать ароматы",
+      "Создать крахмал",
+      "Заменить брожение",
+      "Добавить минералы"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Дистилляция разделяет летучие компоненты посредством испарения и конденсации.",
+    "image": null,
+    "sourceIds": [
+      "wset-spirits3"
+    ]
+  },
+  {
+    "id": "wine-046",
+    "category": "Основы крепкого алкоголя",
+    "subcategory": "Оборудование",
+    "difficulty": "medium",
+    "question": "Как обычно работает pot still?",
+    "options": [
+      "Только непрерывно",
+      "Порциями",
+      "Без нагрева",
+      "Только с водой"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Перегонный куб обычно работает периодически, в отличие от непрерывных колонных систем.",
+    "image": null,
+    "sourceIds": [
+      "wset-spirits3"
+    ]
+  },
+  {
+    "id": "wine-047",
+    "category": "Бочки и выдержка",
+    "subcategory": "Ароматы",
+    "difficulty": "medium",
+    "question": "Какие ноты может привносить дуб?",
+    "options": [
+      "Ваниль",
+      "Пряности",
+      "Поджаренные тона",
+      "Обязательно свежая мята"
+    ],
+    "correctAnswers": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Древесина и её термообработка могут давать ванильные, пряные и поджаренные оттенки.",
+    "image": null,
+    "sourceIds": [
+      "wset-barrel"
+    ]
+  },
+  {
+    "id": "wine-048",
+    "category": "Бочки и выдержка",
+    "subcategory": "Экстракция",
+    "difficulty": "hard",
+    "question": "Какая бочка при прочих равных активнее отдаёт вещества древесины?",
+    "options": [
+      "Многократно использованная большая",
+      "Новая небольшая",
+      "Стальная",
+      "Стеклянная"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Новая древесина богаче экстрагируемыми веществами; малый объём увеличивает контакт с древесиной на литр.",
+    "image": null,
+    "sourceIds": [
+      "wset-barrel"
+    ]
+  },
+  {
+    "id": "wine-049",
+    "category": "Виски",
+    "subcategory": "Шотландия",
+    "difficulty": "easy",
+    "question": "Минимальная выдержка Scotch Whisky в дубе?",
+    "options": [
+      "3 месяца",
+      "1 год",
+      "3 года",
+      "Не нужна"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Scotch Whisky выдерживают в дубовых бочках в Шотландии не менее трёх лет.",
+    "image": null,
+    "sourceIds": [
+      "swa-faq"
+    ]
+  },
+  {
+    "id": "wine-050",
+    "category": "Виски",
+    "subcategory": "Регионы",
+    "difficulty": "medium",
+    "question": "Какие названия относятся к Scotch Whisky?",
+    "options": [
+      "Speyside",
+      "Islay",
+      "Campbeltown",
+      "Cognac"
+    ],
+    "correctAnswers": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Speyside, Islay и Campbeltown — защищённые географические названия шотландского виски.",
+    "image": null,
+    "sourceIds": [
+      "swa-faq"
+    ]
+  },
+  {
+    "id": "wine-051",
+    "category": "Коньяк и бренди",
+    "subcategory": "Сырьё",
+    "difficulty": "easy",
+    "question": "Из чего делают виноградный бренди?",
+    "options": [
+      "Из пива",
+      "Из вина",
+      "Из патоки",
+      "Из агавы"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Виноградный бренди получают перегонкой вина.",
+    "image": null,
+    "sourceIds": [
+      "wset-spirits2"
+    ]
+  },
+  {
+    "id": "wine-052",
+    "category": "Коньяк и бренди",
+    "subcategory": "Происхождение",
+    "difficulty": "medium",
+    "question": "В какой стране производят Cognac?",
+    "options": [
+      "Шотландия",
+      "Мексика",
+      "Франция",
+      "Португалия"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Cognac — защищённое географическое наименование определённой зоны Франции.",
+    "image": null,
+    "sourceIds": [
+      "cognac-faq"
+    ]
+  },
+  {
+    "id": "wine-053",
+    "category": "Ром",
+    "subcategory": "Сырьё",
+    "difficulty": "easy",
+    "question": "Какое растение служит основой рома?",
+    "options": [
+      "Сахарный тростник",
+      "Ячмень",
+      "Агава",
+      "Рожь"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Ром делают из продуктов сахарного тростника, например мелассы или сока.",
+    "image": null,
+    "sourceIds": [
+      "wset-rum"
+    ]
+  },
+  {
+    "id": "wine-054",
+    "category": "Ром",
+    "subcategory": "Agricole",
+    "difficulty": "medium",
+    "question": "Из чего обычно делают rhum agricole?",
+    "options": [
+      "Из зерна",
+      "Из свежего сока тростника",
+      "Из вина",
+      "Из картофеля"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Rhum agricole производят из свежего сока сахарного тростника; правила зависят от происхождения.",
+    "image": null,
+    "sourceIds": [
+      "wset-rum"
+    ]
+  },
+  {
+    "id": "wine-055",
+    "category": "Текила и мескаль",
+    "subcategory": "Агава",
+    "difficulty": "easy",
+    "question": "Сырьё для текилы?",
+    "options": [
+      "Кактус опунция",
+      "Голубая агава",
+      "Пшеница",
+      "Тростник"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Для текилы используют голубую агаву. Агава не является кактусом.",
+    "image": null,
+    "sourceIds": [
+      "crt"
+    ]
+  },
+  {
+    "id": "wine-056",
+    "category": "Текила и мескаль",
+    "subcategory": "Производство",
+    "difficulty": "medium",
+    "question": "Откуда дымность многих мескалей?",
+    "options": [
+      "От приготовления агавы в земляной печи",
+      "От обязательного торфа",
+      "От газа",
+      "От сахара"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Приготовление агавы в земляных печах может давать дымный характер; он не обязателен для всех мескалей.",
+    "image": null,
+    "sourceIds": [
+      "mezcal-nom"
+    ]
+  },
+  {
+    "id": "wine-057",
+    "category": "Джин и водка",
+    "subcategory": "Джин",
+    "difficulty": "easy",
+    "question": "Какая ботаника определяет характер джина?",
+    "options": [
+      "Какао",
+      "Можжевельник",
+      "Кофе",
+      "Ваниль"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Определяющий аромат джина — можжевельник.",
+    "image": null,
+    "sourceIds": [
+      "wset-gin"
+    ]
+  },
+  {
+    "id": "wine-058",
+    "category": "Джин и водка",
+    "subcategory": "Водка",
+    "difficulty": "medium",
+    "question": "Какие виды сырья распространены для водки?",
+    "options": [
+      "Зерно",
+      "Картофель",
+      "Только виноград",
+      "Только яблоки"
+    ],
+    "correctAnswers": [
+      0,
+      1
+    ],
+    "explanation": "Зерно и картофель — распространённые виды сырья; возможны и другие сельскохозяйственные источники.",
+    "image": null,
+    "sourceIds": [
+      "wset-vodka"
+    ]
+  },
+  {
+    "id": "wine-059",
+    "category": "Ликёры и другие спирты",
+    "subcategory": "Ликёры",
+    "difficulty": "easy",
+    "question": "Что характерно для ликёров?",
+    "options": [
+      "Отсутствие сахара",
+      "Подслащивание и ароматизация",
+      "Обязательная выдержка 12 лет",
+      "Только агава"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Ликёры — подслащённые ароматизированные спиртные напитки.",
+    "image": null,
+    "sourceIds": [
+      "wset-liqueur"
+    ]
+  },
+  {
+    "id": "wine-060",
+    "category": "Ликёры и другие спирты",
+    "subcategory": "Писко",
+    "difficulty": "medium",
+    "question": "К какой основе относится писко?",
+    "options": [
+      "Зерновой спирт",
+      "Тростниковый спирт",
+      "Виноградный дистиллят",
+      "Пивной дистиллят"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Писко — виноградный дистиллят; Перу и Чили имеют собственные правила производства.",
+    "image": null,
+    "sourceIds": [
+      "wset-spirits2"
+    ]
+  },
+  {
+    "id": "wine-061",
+    "category": "Пивоварение",
+    "subcategory": "Компоненты",
+    "difficulty": "easy",
+    "question": "Выберите четыре базовых компонента классического пива.",
+    "options": [
+      "Вода",
+      "Солод",
+      "Хмель",
+      "Дрожжи"
+    ],
+    "correctAnswers": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "Классическая основа пива — вода, солод, хмель и дрожжи.",
+    "image": null,
+    "sourceIds": [
+      "wset-beer"
+    ]
+  },
+  {
+    "id": "wine-062",
+    "category": "Пивоварение",
+    "subcategory": "Затирание",
+    "difficulty": "medium",
+    "question": "Зачем затирают солод?",
+    "options": [
+      "Преобразовать крахмал в сахара",
+      "Перегнать спирт",
+      "Сделать тару",
+      "Убрать весь хмель"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Ферменты солода расщепляют крахмал, образуя сахара и декстрины.",
+    "image": null,
+    "sourceIds": [
+      "wset-beer2"
+    ]
+  },
+  {
+    "id": "wine-063",
+    "category": "Стили пива",
+    "subcategory": "Брожение",
+    "difficulty": "easy",
+    "question": "Чем прежде всего различают эль и лагер?",
+    "options": [
+      "Только цветом",
+      "Типом дрожжей",
+      "Только бутылкой",
+      "Наличием хмеля"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Современная классификация связывает эль и лагер с соответствующими дрожжами.",
+    "image": null,
+    "sourceIds": [
+      "bjcp-intro"
+    ]
+  },
+  {
+    "id": "wine-064",
+    "category": "Стили пива",
+    "subcategory": "Пшеничное",
+    "difficulty": "medium",
+    "question": "Какие ноты типичны для немецкого Weissbier?",
+    "options": [
+      "Банан",
+      "Гвоздика",
+      "Можжевельник обязательно",
+      "Дуб обязательно"
+    ],
+    "correctAnswers": [
+      0,
+      1
+    ],
+    "explanation": "Дрожжи Weissbier часто образуют банановые эфиры и гвоздичные фенольные ноты.",
+    "image": null,
+    "sourceIds": [
+      "bjcp-weiss"
+    ]
+  },
+  {
+    "id": "wine-065",
+    "category": "Белые вина",
+    "subcategory": "Сорта",
+    "difficulty": "easy",
+    "question": "Можно ли сделать белое вино из тёмного винограда?",
+    "options": [
+      "Да, быстро отделив кожицу",
+      "Нет, никогда",
+      "Только добавив молоко",
+      "Только перегонкой"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "У многих тёмных сортов сок бесцветен. Быстрое отделение кожицы ограничивает извлечение пигментов.",
+    "image": null,
+    "sourceIds": [
+      "wset-colour"
+    ]
+  },
+  {
+    "id": "wine-066",
+    "category": "Белые вина",
+    "subcategory": "Стили",
+    "difficulty": "medium",
+    "question": "Всегда ли белое вино сладкое?",
+    "options": [
+      "Да",
+      "Нет",
+      "Только из Шардоне",
+      "Только в Германии"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Цвет вина не определяет сладость: белые вина бывают сухими, полусухими и сладкими.",
+    "image": null,
+    "sourceIds": [
+      "wset-styles"
+    ]
+  },
+  {
+    "id": "wine-067",
+    "category": "Красные вина",
+    "subcategory": "Мацерация",
+    "difficulty": "medium",
+    "question": "Что извлекается из кожицы при мацерации?",
+    "options": [
+      "Пигменты",
+      "Танины",
+      "Стекло",
+      "Углекислота из пробки"
+    ],
+    "correctAnswers": [
+      0,
+      1
+    ],
+    "explanation": "Контакт с кожицей позволяет извлекать пигменты и танины.",
+    "image": null,
+    "sourceIds": [
+      "wset-wine"
+    ]
+  },
+  {
+    "id": "wine-068",
+    "category": "Красные вина",
+    "subcategory": "Сорта",
+    "difficulty": "easy",
+    "question": "Как называют Сира в Австралии?",
+    "options": [
+      "Шираз",
+      "Мальбек",
+      "Карменер",
+      "Гаме"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Шираз и Сира — названия одного сорта.",
+    "image": null,
+    "sourceIds": [
+      "wset-wines2"
+    ]
+  },
+  {
+    "id": "wine-069",
+    "category": "Розовые вина",
+    "subcategory": "Производство",
+    "difficulty": "medium",
+    "question": "Что означает saignée?",
+    "options": [
+      "Отбор части сока из ёмкости с красным виноградом",
+      "Перегонку",
+      "Замораживание",
+      "Добавление молока"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Saignée, или кровопускание, — отбор части окрашенного сока после контакта с кожицей.",
+    "image": null,
+    "sourceIds": [
+      "awri-saignee"
+    ]
+  },
+  {
+    "id": "wine-070",
+    "category": "Розовые вина",
+    "subcategory": "Стиль",
+    "difficulty": "easy",
+    "question": "Обязательно ли розовое вино сладкое?",
+    "options": [
+      "Да",
+      "Нет",
+      "Только игристое",
+      "Только французское"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Розовые вина могут быть сухими и сладкими; цвет не определяет содержание сахара.",
+    "image": null,
+    "sourceIds": [
+      "wset-styles"
+    ]
+  },
+  {
+    "id": "wine-071",
+    "category": "Стили виски",
+    "subcategory": "Бурбон",
+    "difficulty": "medium",
+    "question": "Какое зерно составляет не менее 51% затора бурбона?",
+    "options": [
+      "Рожь",
+      "Рис",
+      "Кукуруза",
+      "Овёс"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Основа бурбона — минимум 51% кукурузы; выдержка проходит в новых обожжённых дубовых ёмкостях.",
+    "image": null,
+    "sourceIds": [
+      "us-whisky"
+    ]
+  },
+  {
+    "id": "wine-072",
+    "category": "Стили виски",
+    "subcategory": "Single malt",
+    "difficulty": "medium",
+    "question": "Что означает Single Malt Scotch?",
+    "options": [
+      "Одна винокурня и соложёный ячмень",
+      "Обязательно одна бочка",
+      "Обязательно один урожай",
+      "Спирты разных стран"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Single Malt Scotch производится одной винокурней из воды и соложёного ячменя в перегонных кубах.",
+    "image": null,
+    "sourceIds": [
+      "swa-categories"
+    ]
+  },
+  {
+    "id": "wine-073",
+    "category": "Пивные стили: практика",
+    "subcategory": "IPA",
+    "difficulty": "easy",
+    "question": "Что типично для American IPA?",
+    "options": [
+      "Выраженный хмелевой характер",
+      "Обязательное отсутствие хмеля",
+      "Только копчёный вкус",
+      "Всегда ниже 1% алкоголя"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "American IPA обычно демонстрирует выраженные хмелевые аромат, вкус и горечь.",
+    "image": null,
+    "sourceIds": [
+      "bjcp-ipa"
+    ]
+  },
+  {
+    "id": "wine-074",
+    "category": "Пивные стили: практика",
+    "subcategory": "Стаут",
+    "difficulty": "medium",
+    "question": "Какие ноты характерны для многих стаутов?",
+    "options": [
+      "Только виноград",
+      "Кофе и обжаренное зерно",
+      "Только можжевельник",
+      "Только масло"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Жареное зерно и тёмный солод могут давать кофейные, обжаренные и шоколадные оттенки.",
+    "image": null,
+    "sourceIds": [
+      "bjcp-stout"
+    ]
+  }
+]

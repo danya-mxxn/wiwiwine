@@ -1,0 +1,1519 @@
+[
+  {
+    "id": "official-spirits-001",
+    "category": "Основы крепкого алкоголя",
+    "subcategory": "Брожение",
+    "difficulty": "easy",
+    "question": "Какой процесс создаёт спирт до перегонки?",
+    "options": [
+      "Только фильтрация",
+      "Только нагрев воды",
+      "Обжиг бочки",
+      "Спиртовое брожение"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Спирт образуют дрожжи при переработке сбраживаемых сахаров.",
+    "image": null,
+    "sourceIds": [
+      "wset-spirits3"
+    ]
+  },
+  {
+    "id": "official-spirits-002",
+    "category": "Основы крепкого алкоголя",
+    "subcategory": "Зерно",
+    "difficulty": "medium",
+    "question": "Зачем перед брожением зернового сырья нужен этап осахаривания?",
+    "options": [
+      "Чтобы добавить цвет",
+      "Чтобы заменить перегонку",
+      "Чтобы превратить крахмал в доступные дрожжам сахара",
+      "Чтобы удалить весь сахар"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Крахмал требуется предварительно преобразовать в сбраживаемые сахара.",
+    "image": null,
+    "sourceIds": [
+      "wset-spirits3"
+    ]
+  },
+  {
+    "id": "official-spirits-003",
+    "category": "Основы крепкого алкоголя",
+    "subcategory": "Перегонка",
+    "difficulty": "medium",
+    "question": "Что происходит с паром в конденсаторе?",
+    "options": [
+      "Он исчезает без следа",
+      "Он охлаждается и превращается в жидкость",
+      "Он превращается в древесину",
+      "Он становится сахаром"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Конденсация возвращает испарившиеся компоненты в жидкую фазу.",
+    "image": null,
+    "sourceIds": [
+      "wset-spirits3"
+    ]
+  },
+  {
+    "id": "official-spirits-004",
+    "category": "Основы крепкого алкоголя",
+    "subcategory": "Фракции",
+    "difficulty": "hard",
+    "question": "Что называют сердцем при фракционной перегонке в кубе?",
+    "options": [
+      "Отобранную среднюю фракцию дистиллята",
+      "Только первые капли",
+      "Только последние остатки",
+      "Осадок после бутылочной выдержки"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Отбор сердца помогает сформировать требуемый профиль спирта.",
+    "image": null,
+    "sourceIds": [
+      "wset-spirits3"
+    ]
+  },
+  {
+    "id": "official-spirits-005",
+    "category": "Основы крепкого алкоголя",
+    "subcategory": "Ректификация",
+    "difficulty": "hard",
+    "question": "Как многократный контакт пара и жидкости в колонне влияет на разделение?",
+    "options": [
+      "Полностью заменяет исходное брожение",
+      "Создаёт крахмал",
+      "Всегда снижает крепость до нуля",
+      "Усиливает разделение компонентов"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Колонна обеспечивает последовательные стадии разделения летучих компонентов.",
+    "image": null,
+    "sourceIds": [
+      "wset-spirits3"
+    ]
+  },
+  {
+    "id": "official-spirits-006",
+    "category": "Основы крепкого алкоголя",
+    "subcategory": "После перегонки",
+    "difficulty": "easy",
+    "question": "Для чего перед розливом к спирту могут добавлять воду?",
+    "options": [
+      "Для запуска соложения",
+      "Для окрашивания в красный цвет",
+      "Для доведения до заданной крепости",
+      "Для создания нового алкоголя"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Разбавление водой регулирует конечную крепость напитка.",
+    "image": null,
+    "sourceIds": [
+      "wset-spirits2"
+    ]
+  },
+  {
+    "id": "official-spirits-007",
+    "category": "Основы крепкого алкоголя",
+    "subcategory": "Купаж",
+    "difficulty": "medium",
+    "question": "Зачем производитель смешивает разные партии спиртов?",
+    "options": [
+      "Чтобы сделать этикетку официальной",
+      "Для сложности и стабильности стиля",
+      "Чтобы исключить необходимость контроля",
+      "Чтобы получить сахар из стекла"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Купажирование позволяет управлять профилем готового напитка.",
+    "image": null,
+    "sourceIds": [
+      "wset-spirits2"
+    ]
+  },
+  {
+    "id": "official-spirits-008",
+    "category": "Основы крепкого алкоголя",
+    "subcategory": "Хранение",
+    "difficulty": "hard",
+    "question": "Даёт ли стальная ёмкость такой же древесный вклад, как новая дубовая бочка?",
+    "options": [
+      "Нет",
+      "Да, всегда",
+      "Только если ёмкость холодная",
+      "Да, после одного дня"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Инертная ёмкость не отдаёт экстрактивные вещества дуба.",
+    "image": null,
+    "sourceIds": [
+      "wset-spirits2"
+    ]
+  },
+  {
+    "id": "official-spirits-009",
+    "category": "Бочки и выдержка",
+    "subcategory": "Ванилин",
+    "difficulty": "medium",
+    "question": "Какое вещество древесины связано с ванильными оттенками?",
+    "options": [
+      "Лактоза",
+      "Капсаицин",
+      "Хлорофилл",
+      "Ванилин"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Ванилин может извлекаться из дуба при выдержке.",
+    "image": null,
+    "sourceIds": [
+      "wset-barrel"
+    ]
+  },
+  {
+    "id": "official-spirits-010",
+    "category": "Бочки и выдержка",
+    "subcategory": "Лактоны",
+    "difficulty": "hard",
+    "question": "С какими оттенками часто связывают дубовые лактоны?",
+    "options": [
+      "Только рыбными",
+      "Только банановыми",
+      "Кокосовыми",
+      "Только солёными"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Дубовые лактоны могут создавать кокосовые и сливочные оттенки.",
+    "image": null,
+    "sourceIds": [
+      "wset-barrel"
+    ]
+  },
+  {
+    "id": "official-spirits-011",
+    "category": "Бочки и выдержка",
+    "subcategory": "Бондарное дело",
+    "difficulty": "medium",
+    "question": "Для чего нагревают клёпки при изготовлении бочки?",
+    "options": [
+      "Чтобы остановить брожение зерна",
+      "Чтобы согнуть древесину и сформировать обжиг",
+      "Чтобы полностью растворить дуб",
+      "Чтобы превратить дуб в металл"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Нагрев облегчает формование и меняет ароматический потенциал древесины.",
+    "image": null,
+    "sourceIds": [
+      "wset-oak"
+    ]
+  },
+  {
+    "id": "official-spirits-012",
+    "category": "Бочки и выдержка",
+    "subcategory": "Размер бочки",
+    "difficulty": "hard",
+    "question": "Почему малые бочки обычно действуют на спирт быстрее при прочих равных?",
+    "options": [
+      "Больше площадь древесины относительно объёма",
+      "В них нет кислорода никогда",
+      "Они создают спирт из воды",
+      "Их объём не связан с контактом"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Соотношение поверхности и объёма влияет на скорость взаимодействия.",
+    "image": null,
+    "sourceIds": [
+      "wset-barrel"
+    ]
+  },
+  {
+    "id": "official-spirits-013",
+    "category": "Бочки и выдержка",
+    "subcategory": "Климат",
+    "difficulty": "medium",
+    "question": "Как тепло обычно влияет на взаимодействие спирта и дуба?",
+    "options": [
+      "Всегда полностью останавливает",
+      "Обязательно убирает цвет",
+      "Делает напиток безалкогольным",
+      "Ускоряет его"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "В тёплом климате экстракция и испарение могут протекать интенсивнее.",
+    "image": null,
+    "sourceIds": [
+      "wset-world-whisky"
+    ]
+  },
+  {
+    "id": "official-spirits-014",
+    "category": "Бочки и выдержка",
+    "subcategory": "Испарение",
+    "difficulty": "easy",
+    "question": "Что называют долей ангелов?",
+    "options": [
+      "Долю бутылок с пробкой",
+      "Только первый отбор спирта",
+      "Потери при испарении во время выдержки",
+      "Количество сахара в сусле"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Так называют часть напитка, испаряющуюся через бочку.",
+    "image": null,
+    "sourceIds": [
+      "wset-world-whisky"
+    ]
+  },
+  {
+    "id": "official-spirits-015",
+    "category": "Бочки и выдержка",
+    "subcategory": "Предыдущее содержимое",
+    "difficulty": "medium",
+    "question": "Почему бочка из-под хереса может изменить профиль виски?",
+    "options": [
+      "Она превращает зерно в виноград",
+      "Она сохраняет следы предыдущего содержимого и меняет вклад древесины",
+      "Она автоматически делает виски хересом",
+      "Она исключает выдержку"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "История бочки влияет на ароматические характеристики выдерживаемого спирта.",
+    "image": null,
+    "sourceIds": [
+      "wset-spirits2"
+    ]
+  },
+  {
+    "id": "official-spirits-016",
+    "category": "Бочки и выдержка",
+    "subcategory": "Финиш",
+    "difficulty": "medium",
+    "question": "Что означает cask finish?",
+    "options": [
+      "Заключительную выдержку в другом типе бочки",
+      "Обязательно последнюю каплю из куба",
+      "Только фильтрацию",
+      "Только закупоривание"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Финиш используют для дополнительного изменения профиля напитка.",
+    "image": null,
+    "sourceIds": [
+      "swa-faq"
+    ]
+  },
+  {
+    "id": "official-spirits-017",
+    "category": "Виски",
+    "subcategory": "Дымность",
+    "difficulty": "easy",
+    "question": "Откуда может происходить торфяная дымность Scotch?",
+    "options": [
+      "Из обязательного добавления угля в бутылку",
+      "Из морской соли на этикетке",
+      "Только из возраста бутылки",
+      "Из сушки ячменя с использованием торфяного дыма"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Торфяной дым при сушке солода переносит ароматические соединения.",
+    "image": null,
+    "sourceIds": [
+      "swa-faq"
+    ]
+  },
+  {
+    "id": "official-spirits-018",
+    "category": "Виски",
+    "subcategory": "Категории",
+    "difficulty": "medium",
+    "question": "Сколько категорий Scotch Whisky определяет SWA?",
+    "options": [
+      "Семь",
+      "Тринадцать",
+      "Пять",
+      "Две"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "SWA выделяет пять законодательно определённых категорий.",
+    "image": null,
+    "sourceIds": [
+      "swa-categories"
+    ]
+  },
+  {
+    "id": "official-spirits-019",
+    "category": "Виски",
+    "subcategory": "Single Grain",
+    "difficulty": "hard",
+    "question": "Что означает Single в Single Grain Scotch Whisky?",
+    "options": [
+      "Одна бутылка в партии",
+      "Происхождение с одной винокурни",
+      "Ровно один вид зерна",
+      "Ровно одна бочка"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Single указывает на одну винокурню, а не на единственный вид зерна.",
+    "image": null,
+    "sourceIds": [
+      "swa-categories"
+    ]
+  },
+  {
+    "id": "official-spirits-020",
+    "category": "Виски",
+    "subcategory": "Минимальная крепость",
+    "difficulty": "medium",
+    "question": "Минимальная крепость розлива Scotch Whisky?",
+    "options": [
+      "40% об.",
+      "20% об.",
+      "30% об.",
+      "60% об. для всех"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "SWA указывает минимум 40% об.",
+    "image": null,
+    "sourceIds": [
+      "swa-categories"
+    ]
+  },
+  {
+    "id": "official-spirits-021",
+    "category": "Виски",
+    "subcategory": "Регионы",
+    "difficulty": "medium",
+    "question": "Какое название относится к шотландскому виски?",
+    "options": [
+      "Cognac",
+      "Jalisco",
+      "Douro",
+      "Lowland"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Lowland — одно из защищённых географических названий Scotch.",
+    "image": null,
+    "sourceIds": [
+      "swa-faq"
+    ]
+  },
+  {
+    "id": "official-spirits-022",
+    "category": "Виски",
+    "subcategory": "Обозначение возраста",
+    "difficulty": "hard",
+    "question": "Что означает возраст на этикетке купажированного Scotch?",
+    "options": [
+      "Возраст самой старой бочки",
+      "Срок хранения в магазине",
+      "Возраст самого молодого виски в купаже",
+      "Среднее арифметическое возрастов"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Возрастное обозначение определяется самым молодым компонентом.",
+    "image": null,
+    "sourceIds": [
+      "swa-age"
+    ]
+  },
+  {
+    "id": "official-spirits-023",
+    "category": "Виски",
+    "subcategory": "Бутылка",
+    "difficulty": "medium",
+    "question": "Продолжает ли Scotch увеличивать заявленный возраст после розлива?",
+    "options": [
+      "Только после открытия",
+      "Нет",
+      "Да, каждый год",
+      "Только в тёмном стекле"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Заявленный возраст связан с выдержкой в бочке, а не хранением в бутылке.",
+    "image": null,
+    "sourceIds": [
+      "swa-age"
+    ]
+  },
+  {
+    "id": "official-spirits-024",
+    "category": "Виски",
+    "subcategory": "Климат",
+    "difficulty": "hard",
+    "question": "Можно ли считать одинаковый возраст виски в разных климатах одинаковым развитием?",
+    "options": [
+      "Нет",
+      "Да, температура не важна",
+      "Да, если цвет похож",
+      "Только по форме бутылки"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Температура и условия склада влияют на скорость созревания.",
+    "image": null,
+    "sourceIds": [
+      "wset-world-whisky"
+    ]
+  },
+  {
+    "id": "official-spirits-025",
+    "category": "Коньяк и бренди",
+    "subcategory": "Перегонка",
+    "difficulty": "medium",
+    "question": "Как обычно перегоняют вино для Cognac?",
+    "options": [
+      "Только один раз в открытой кастрюле",
+      "Только холодной фильтрацией",
+      "Газированием",
+      "Дважды в шарантском кубе"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "BNIC описывает двойную перегонку в alambic charentais.",
+    "image": null,
+    "sourceIds": [
+      "cognac-faq"
+    ]
+  },
+  {
+    "id": "official-spirits-026",
+    "category": "Коньяк и бренди",
+    "subcategory": "Крю",
+    "difficulty": "medium",
+    "question": "Сколько крю входит в зону Cognac?",
+    "options": [
+      "Тринадцать",
+      "Двадцать",
+      "Шесть",
+      "Два"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Зона Cognac разделена на шесть крю.",
+    "image": null,
+    "sourceIds": [
+      "cognac-faq"
+    ]
+  },
+  {
+    "id": "official-spirits-027",
+    "category": "Коньяк и бренди",
+    "subcategory": "VS",
+    "difficulty": "easy",
+    "question": "Минимальный возраст самого молодого спирта Cognac VS?",
+    "options": [
+      "Десять лет",
+      "Два года",
+      "Один месяц",
+      "Шесть месяцев"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "VS требует минимум двух лет выдержки самого молодого спирта.",
+    "image": null,
+    "sourceIds": [
+      "cognac-faq"
+    ]
+  },
+  {
+    "id": "official-spirits-028",
+    "category": "Коньяк и бренди",
+    "subcategory": "VSOP",
+    "difficulty": "medium",
+    "question": "Минимальный возраст самого молодого спирта Cognac VSOP?",
+    "options": [
+      "Четыре года",
+      "Один год",
+      "Два года",
+      "Тридцать лет"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Для VSOP требуется не менее четырёх лет.",
+    "image": null,
+    "sourceIds": [
+      "cognac-faq"
+    ]
+  },
+  {
+    "id": "official-spirits-029",
+    "category": "Коньяк и бренди",
+    "subcategory": "XO",
+    "difficulty": "medium",
+    "question": "Минимальный возраст самого молодого спирта Cognac XO?",
+    "options": [
+      "Три года",
+      "Пять лет",
+      "Один год",
+      "Десять лет"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "По действующим требованиям XO — минимум десять лет.",
+    "image": null,
+    "sourceIds": [
+      "cognac-rules"
+    ]
+  },
+  {
+    "id": "official-spirits-030",
+    "category": "Коньяк и бренди",
+    "subcategory": "Fine Champagne",
+    "difficulty": "hard",
+    "question": "Какие крю образуют Cognac Fine Champagne?",
+    "options": [
+      "Только Borderies",
+      "Только Fins Bois",
+      "Grande Champagne и Petite Champagne",
+      "Шампань и Бургундия"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Fine Champagne включает эти два крю с долей Grande Champagne не менее 50%.",
+    "image": null,
+    "sourceIds": [
+      "cognac-rules"
+    ]
+  },
+  {
+    "id": "official-spirits-031",
+    "category": "Коньяк и бренди",
+    "subcategory": "Возраст",
+    "difficulty": "hard",
+    "question": "По какому компоненту определяют возрастное обозначение купажа Cognac?",
+    "options": [
+      "По возрасту дуба",
+      "По самому молодому спирту",
+      "По самому старому",
+      "По среднему возрасту"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Возрастные категории определяются самым молодым eau-de-vie.",
+    "image": null,
+    "sourceIds": [
+      "cognac-rules"
+    ]
+  },
+  {
+    "id": "official-spirits-032",
+    "category": "Коньяк и бренди",
+    "subcategory": "Бутылочная выдержка",
+    "difficulty": "medium",
+    "question": "Станет ли Cognac VS автоматически VSOP после двух лет в закрытой бутылке?",
+    "options": [
+      "Нет",
+      "Да",
+      "Только на солнце",
+      "Да, если снять этикетку"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Указанный возраст определяется выдержкой спиртов в дубе.",
+    "image": null,
+    "sourceIds": [
+      "cognac-rules"
+    ]
+  },
+  {
+    "id": "official-spirits-033",
+    "category": "Ром",
+    "subcategory": "Меласса",
+    "difficulty": "easy",
+    "question": "Что представляет собой меласса для производства рома?",
+    "options": [
+      "Виноградный жмых",
+      "Ячменный солод",
+      "Кожура агавы",
+      "Побочный продукт переработки сахарного тростника на сахар"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Меласса содержит сахара, пригодные для последующего брожения.",
+    "image": null,
+    "sourceIds": [
+      "wset-spirits2"
+    ]
+  },
+  {
+    "id": "official-spirits-034",
+    "category": "Ром",
+    "subcategory": "Agricole",
+    "difficulty": "medium",
+    "question": "Какое происхождение имеет AOC rhum agricole Martinique?",
+    "options": [
+      "Пьемонт",
+      "Мозель",
+      "Мартиника",
+      "Шотландия"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Мартиника имеет собственное AOC для rhum agricole.",
+    "image": null,
+    "sourceIds": [
+      "wset-rum"
+    ]
+  },
+  {
+    "id": "official-spirits-035",
+    "category": "Ром",
+    "subcategory": "Ямайка",
+    "difficulty": "medium",
+    "question": "Какой тип перегонного аппарата традиционно важен для насыщенных ямайских ромов?",
+    "options": [
+      "Шампанский пюпитр",
+      "Pot still",
+      "Только виноградный пресс",
+      "Только пивной фильтр"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Кубовая перегонка играет важную роль в традиционных ароматных стилях Ямайки.",
+    "image": null,
+    "sourceIds": [
+      "wset-rum"
+    ]
+  },
+  {
+    "id": "official-spirits-036",
+    "category": "Ром",
+    "subcategory": "Гайана",
+    "difficulty": "hard",
+    "question": "Какая река дала имя известной традиции рома Гайаны?",
+    "options": [
+      "Демерара",
+      "Мозель",
+      "Сена",
+      "По"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Демерарская традиция связана с Гайаной.",
+    "image": null,
+    "sourceIds": [
+      "wset-rum"
+    ]
+  },
+  {
+    "id": "official-spirits-037",
+    "category": "Ром",
+    "subcategory": "Стиль",
+    "difficulty": "medium",
+    "question": "Можно ли определять вкус любого рома только по языку его страны?",
+    "options": [
+      "Да, это строгий производственный стандарт",
+      "Только если он белый",
+      "Да, страна отменяет роль оборудования",
+      "Нет"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "На стиль влияют сырьё, ферментация, перегонка и выдержка.",
+    "image": null,
+    "sourceIds": [
+      "wset-rum"
+    ]
+  },
+  {
+    "id": "official-spirits-038",
+    "category": "Ром",
+    "subcategory": "Брожение",
+    "difficulty": "medium",
+    "question": "Что должно произойти с сахарами тростникового сырья перед перегонкой?",
+    "options": [
+      "Превращение в камень",
+      "Удаление всех дрожжей до начала брожения",
+      "Спиртовое брожение",
+      "Обязательное соложение тростника"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Дрожжи преобразуют сахара в спирт перед перегонкой.",
+    "image": null,
+    "sourceIds": [
+      "wset-spirits2"
+    ]
+  },
+  {
+    "id": "official-spirits-039",
+    "category": "Ром",
+    "subcategory": "Купаж",
+    "difficulty": "hard",
+    "question": "Почему ромы разных аппаратов могут сочетать в купаже?",
+    "options": [
+      "Чтобы исключить контроль качества",
+      "Для сочетания разных ароматических профилей",
+      "Чтобы заменить сахарный тростник зерном",
+      "Чтобы убрать происхождение сырья"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Разные типы спиртов дают производителю инструменты для построения стиля.",
+    "image": null,
+    "sourceIds": [
+      "wset-rum"
+    ]
+  },
+  {
+    "id": "official-spirits-040",
+    "category": "Ром",
+    "subcategory": "Тропическая выдержка",
+    "difficulty": "hard",
+    "question": "Что необходимо учитывать при сравнении ромов одинакового возраста?",
+    "options": [
+      "Климат и условия бочковой выдержки",
+      "Только цвет этикетки",
+      "Только длину названия",
+      "Только массу пустой бутылки"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Температура и влажность среды влияют на созревание и потери.",
+    "image": null,
+    "sourceIds": [
+      "wset-barrel"
+    ]
+  },
+  {
+    "id": "official-spirits-041",
+    "category": "Текила и мескаль",
+    "subcategory": "Категории",
+    "difficulty": "medium",
+    "question": "Что гарантирует обозначение Tequila 100% Agave в отношении сахаров сырья?",
+    "options": [
+      "Все сахара происходят из кукурузы",
+      "Ровно половина сахаров из тростника",
+      "Напиток не проходил брожение",
+      "Все сахара происходят из голубой агавы"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "CRT отделяет категорию 100% Agave от общей категории Tequila.",
+    "image": null,
+    "sourceIds": [
+      "crt"
+    ]
+  },
+  {
+    "id": "official-spirits-042",
+    "category": "Текила и мескаль",
+    "subcategory": "Reposado",
+    "difficulty": "easy",
+    "question": "Минимальная выдержка Tequila Reposado в дубе по CRT?",
+    "options": [
+      "Три года",
+      "Десять лет",
+      "Два месяца",
+      "Одна неделя"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "В испанском оригинале CRT указан минимум два месяца.",
+    "image": null,
+    "sourceIds": [
+      "crt"
+    ]
+  },
+  {
+    "id": "official-spirits-043",
+    "category": "Текила и мескаль",
+    "subcategory": "Añejo",
+    "difficulty": "medium",
+    "question": "Минимальная выдержка Tequila Añejo?",
+    "options": [
+      "Десять лет",
+      "Один год",
+      "Один месяц",
+      "Два месяца"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Для Añejo требуется минимум год созревания в дубе.",
+    "image": null,
+    "sourceIds": [
+      "crt"
+    ]
+  },
+  {
+    "id": "official-spirits-044",
+    "category": "Текила и мескаль",
+    "subcategory": "Extra Añejo",
+    "difficulty": "medium",
+    "question": "Минимальная выдержка Tequila Extra Añejo?",
+    "options": [
+      "Три года",
+      "Шесть месяцев",
+      "Один год",
+      "Две недели"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Extra Añejo выдерживают минимум три года.",
+    "image": null,
+    "sourceIds": [
+      "crt"
+    ]
+  },
+  {
+    "id": "official-spirits-045",
+    "category": "Текила и мескаль",
+    "subcategory": "Подготовка агавы",
+    "difficulty": "hard",
+    "question": "Зачем при производстве текилы гидролизуют или готовят агаву?",
+    "options": [
+      "Чтобы получить дубовые танины",
+      "Чтобы удалить всю воду",
+      "Чтобы исключить брожение",
+      "Чтобы превратить инулин в сбраживаемые сахара"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Обработка делает углеводы агавы доступными для ферментации.",
+    "image": null,
+    "sourceIds": [
+      "crt"
+    ]
+  },
+  {
+    "id": "official-spirits-046",
+    "category": "Текила и мескаль",
+    "subcategory": "Мескаль",
+    "difficulty": "medium",
+    "question": "Какие категории устанавливает NOM-070 для мескаля по процессу?",
+    "options": [
+      "Mezcal Ancestral",
+      "Mezcal Grand Cru",
+      "Mezcal",
+      "Mezcal Artesanal"
+    ],
+    "correctAnswers": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "Стандарт различает три производственные категории.",
+    "image": null,
+    "sourceIds": [
+      "mezcal-nom"
+    ]
+  },
+  {
+    "id": "official-spirits-047",
+    "category": "Текила и мескаль",
+    "subcategory": "Ancestral",
+    "difficulty": "hard",
+    "question": "Какое оборудование перегонки характерно для категории Mezcal Ancestral по NOM-070?",
+    "options": [
+      "Только медная ректификационная башня",
+      "Глиняный сосуд с прямым нагревом",
+      "Только непрерывная стальная колонна",
+      "Только резервуар Шарма"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "NOM-070 предусматривает olla de barro и установленный набор материалов.",
+    "image": null,
+    "sourceIds": [
+      "mezcal-nom"
+    ]
+  },
+  {
+    "id": "official-spirits-048",
+    "category": "Текила и мескаль",
+    "subcategory": "Категории и возраст",
+    "difficulty": "hard",
+    "question": "Означает ли Artesanal у мескаля определённый возраст выдержки?",
+    "options": [
+      "Нет, это характеристика процесса производства",
+      "Да, всегда 3 года",
+      "Да, всегда 12 лет",
+      "Да, только выдержку в бутылке"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Производственную категорию следует отличать от класса выдержки.",
+    "image": null,
+    "sourceIds": [
+      "mezcal-nom"
+    ]
+  },
+  {
+    "id": "official-spirits-049",
+    "category": "Джин и водка",
+    "subcategory": "Ботаника",
+    "difficulty": "easy",
+    "question": "Какие компоненты часто используют в джине кроме можжевельника?",
+    "options": [
+      "Только виноградные косточки",
+      "Обязательно хмель",
+      "Обязательно торф",
+      "Кориандр и цитрусовую цедру"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Кориандр и цитрусовая цедра — распространённая ботаника джина.",
+    "image": null,
+    "sourceIds": [
+      "wset-gin"
+    ]
+  },
+  {
+    "id": "official-spirits-050",
+    "category": "Джин и водка",
+    "subcategory": "Паровая ароматизация",
+    "difficulty": "medium",
+    "question": "Что происходит при vapour infusion джина?",
+    "options": [
+      "Алкоголь не перегоняют вообще",
+      "Можжевельник превращают в сахар",
+      "Пары спирта проходят через ботанические компоненты",
+      "Специи смешивают только с готовым льдом"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Ботанику помещают на пути спиртовых паров.",
+    "image": null,
+    "sourceIds": [
+      "wset-gin-flavour"
+    ]
+  },
+  {
+    "id": "official-spirits-051",
+    "category": "Джин и водка",
+    "subcategory": "Мацерация",
+    "difficulty": "medium",
+    "question": "Что означает мацерация ботаники в производстве джина?",
+    "options": [
+      "Сушку винограда",
+      "Настаивание растительных компонентов в спиртовой жидкости",
+      "Выдержку только пустой бутылки",
+      "Замораживание зерна"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "При мацерации ароматические вещества переходят из растений в жидкость.",
+    "image": null,
+    "sourceIds": [
+      "wset-gin-flavour"
+    ]
+  },
+  {
+    "id": "official-spirits-052",
+    "category": "Джин и водка",
+    "subcategory": "Раздельная перегонка",
+    "difficulty": "hard",
+    "question": "Зачем некоторые производители перегоняют ботанические компоненты отдельно?",
+    "options": [
+      "Чтобы точнее управлять их долями при последующем смешивании",
+      "Чтобы обойти необходимость можжевельника",
+      "Чтобы исключить аромат",
+      "Чтобы получить пиво"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Раздельная дистилляция позволяет настраивать баланс отдельных ароматов.",
+    "image": null,
+    "sourceIds": [
+      "wset-gin-flavour"
+    ]
+  },
+  {
+    "id": "official-spirits-053",
+    "category": "Джин и водка",
+    "subcategory": "London Dry",
+    "difficulty": "hard",
+    "question": "Обязательно ли London Dry Gin должен быть произведён в Лондоне?",
+    "options": [
+      "Да, только в центре Лондона",
+      "Да, только рядом с Темзой",
+      "Только если крепость ниже 20%",
+      "Нет, название описывает технологический стиль"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "London Dry обозначает регламентированный способ производства, а не обязательное место.",
+    "image": null,
+    "sourceIds": [
+      "wset-gin"
+    ]
+  },
+  {
+    "id": "official-spirits-054",
+    "category": "Джин и водка",
+    "subcategory": "Водка",
+    "difficulty": "medium",
+    "question": "Почему при производстве водки часто применяют высокую степень ректификации?",
+    "options": [
+      "Для создания солода",
+      "Для сохранения всех тяжёлых фракций",
+      "Для относительно нейтрального спиртового профиля",
+      "Для обязательной танинности"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Высокая степень очистки уменьшает вклад многих ароматических примесей.",
+    "image": null,
+    "sourceIds": [
+      "wset-vodka"
+    ]
+  },
+  {
+    "id": "official-spirits-055",
+    "category": "Джин и водка",
+    "subcategory": "Фильтрация",
+    "difficulty": "medium",
+    "question": "Какую операцию могут применять для корректировки профиля водки?",
+    "options": [
+      "Дегоржаж",
+      "Фильтрацию активированным углём",
+      "Обязательную мацерацию кожицы Неббиоло",
+      "Ремюаж"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Угольная фильтрация — одна из возможных операций производства водки.",
+    "image": null,
+    "sourceIds": [
+      "wset-vodka"
+    ]
+  },
+  {
+    "id": "official-spirits-056",
+    "category": "Джин и водка",
+    "subcategory": "Сырьё",
+    "difficulty": "hard",
+    "question": "Можно ли производить водку из виноградного сырья?",
+    "options": [
+      "Да",
+      "Нет, только из картофеля",
+      "Нет, только из пшеницы",
+      "Только без брожения"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "WSET описывает использование разных видов сырья, включая виноград.",
+    "image": null,
+    "sourceIds": [
+      "wset-vodka"
+    ]
+  },
+  {
+    "id": "official-spirits-057",
+    "category": "Ликёры и другие спирты",
+    "subcategory": "Ароматизация",
+    "difficulty": "medium",
+    "question": "Какими способами можно ароматизировать ликёр?",
+    "options": [
+      "Повторной перегонкой с ароматическим сырьём",
+      "Только изменением формы бутылки",
+      "Только размером пробки",
+      "Мацерацией"
+    ],
+    "correctAnswers": [
+      0,
+      3
+    ],
+    "explanation": "Ликёры допускают различные методы введения ароматов.",
+    "image": null,
+    "sourceIds": [
+      "wset-liqueur"
+    ]
+  },
+  {
+    "id": "official-spirits-058",
+    "category": "Ликёры и другие спирты",
+    "subcategory": "Основа",
+    "difficulty": "medium",
+    "question": "Обязан ли каждый ликёр иметь только нейтральную спиртовую основу?",
+    "options": [
+      "Только сливочные ликёры",
+      "Да, иначе это пиво",
+      "Нет, основа может иметь собственный характер",
+      "Да"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "WSET рассматривает и нейтральные, и характерные спиртовые основы.",
+    "image": null,
+    "sourceIds": [
+      "wset-liqueur"
+    ]
+  },
+  {
+    "id": "official-spirits-059",
+    "category": "Ликёры и другие спирты",
+    "subcategory": "Сливочные ликёры",
+    "difficulty": "easy",
+    "question": "Какой компонент характерен для сливочного ликёра?",
+    "options": [
+      "Только виноградный жмых",
+      "Сливки",
+      "Обязательно хмель",
+      "Обязательно торф"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Сливки используются как часть рецептуры сливочных ликёров.",
+    "image": null,
+    "sourceIds": [
+      "wset-liqueur"
+    ]
+  },
+  {
+    "id": "official-spirits-060",
+    "category": "Ликёры и другие спирты",
+    "subcategory": "Анис",
+    "difficulty": "medium",
+    "question": "Какие растения содержат анетол и используются для анисовых напитков?",
+    "options": [
+      "Анис",
+      "Бадьян",
+      "Рис",
+      "Картофель"
+    ],
+    "correctAnswers": [
+      0,
+      1
+    ],
+    "explanation": "Анис и бадьян — источники анетола; он также встречается в фенхеле.",
+    "image": null,
+    "sourceIds": [
+      "wset-liqueur"
+    ]
+  },
+  {
+    "id": "official-spirits-061",
+    "category": "Ликёры и другие спирты",
+    "subcategory": "Кальвадос",
+    "difficulty": "easy",
+    "question": "С каким французским регионом связан кальвадос?",
+    "options": [
+      "Шампань",
+      "Эльзас",
+      "Божоле",
+      "Нормандия"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Кальвадос — нормандский яблочный и, по правилам наименования, грушевый бренди.",
+    "image": null,
+    "sourceIds": [
+      "calvados-aoc"
+    ]
+  },
+  {
+    "id": "official-spirits-062",
+    "category": "Ликёры и другие спирты",
+    "subcategory": "Граппа",
+    "difficulty": "medium",
+    "question": "Какое сырьё используют для граппы?",
+    "options": [
+      "Свежий тростниковый сок",
+      "Голубую агаву",
+      "Виноградные выжимки",
+      "Солодовый экстракт"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Граппа — итальянский дистиллят виноградных выжимок.",
+    "image": null,
+    "sourceIds": [
+      "wset-spirits2"
+    ]
+  },
+  {
+    "id": "official-spirits-063",
+    "category": "Ликёры и другие спирты",
+    "subcategory": "Писко",
+    "difficulty": "medium",
+    "question": "Какие две страны имеют собственные традиции и правила писко?",
+    "options": [
+      "Италия и Португалия",
+      "Перу и Чили",
+      "Франция и Германия",
+      "Мексика и Канада"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Перуанское и чилийское писко регулируются разными системами.",
+    "image": null,
+    "sourceIds": [
+      "wset-spirits2"
+    ]
+  },
+  {
+    "id": "official-spirits-064",
+    "category": "Ликёры и другие спирты",
+    "subcategory": "Этикетка",
+    "difficulty": "hard",
+    "question": "Можно ли вывести технологию любого ароматизированного спирта только из его цвета?",
+    "options": [
+      "Нет",
+      "Да, любой тёмный обязательно выдержан 20 лет",
+      "Да, прозрачный никогда не ароматизируют",
+      "Да, розовый всегда виноградный"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "Цвет может зависеть от ингредиентов, выдержки и разрешённых добавок.",
+    "image": null,
+    "sourceIds": [
+      "wset-liqueur"
+    ]
+  },
+  {
+    "id": "official-spirits-065",
+    "category": "Стили виски",
+    "subcategory": "Blended Scotch",
+    "difficulty": "medium",
+    "question": "Какие компоненты объединяют в Blended Scotch Whisky?",
+    "options": [
+      "Только ром и бренди",
+      "Только водку и джин",
+      "Только зерно без брожения",
+      "Single Malt и Single Grain"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Blended Scotch объединяет солодовый и зерновой шотландский виски.",
+    "image": null,
+    "sourceIds": [
+      "swa-categories"
+    ]
+  },
+  {
+    "id": "official-spirits-066",
+    "category": "Стили виски",
+    "subcategory": "Blended Malt",
+    "difficulty": "hard",
+    "question": "Что представляет собой Blended Malt Scotch Whisky?",
+    "options": [
+      "Смесь рома и солода",
+      "Только зерновые виски без солодовых",
+      "Смесь солодовых виски разных винокурен",
+      "Любой виски одной бочки"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Категория объединяет Single Malt с нескольких винокурен.",
+    "image": null,
+    "sourceIds": [
+      "swa-categories"
+    ]
+  },
+  {
+    "id": "official-spirits-067",
+    "category": "Стили виски",
+    "subcategory": "Blended Grain",
+    "difficulty": "hard",
+    "question": "Из чего состоит Blended Grain Scotch Whisky?",
+    "options": [
+      "Только из одной зерновой бочки",
+      "Из Single Grain разных винокурен",
+      "Только из Single Malt",
+      "Из любого спирта и красителя"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Для категории смешивают зерновые Scotch с разных винокурен.",
+    "image": null,
+    "sourceIds": [
+      "swa-categories"
+    ]
+  },
+  {
+    "id": "official-spirits-068",
+    "category": "Стили виски",
+    "subcategory": "Бурбон",
+    "difficulty": "medium",
+    "question": "Какая древесная ёмкость требуется для исходной выдержки бурбона?",
+    "options": [
+      "Новая обожжённая дубовая",
+      "Только старая сосновая",
+      "Любая стеклянная",
+      "Только стальная"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "explanation": "27 CFR §5.143 требует new charred oak для bourbon whisky.",
+    "image": null,
+    "sourceIds": [
+      "us-whisky"
+    ]
+  },
+  {
+    "id": "official-spirits-069",
+    "category": "Стили виски",
+    "subcategory": "Rye Whiskey",
+    "difficulty": "medium",
+    "question": "Какова минимальная доля ржи в заторе американского Rye Whisky по 27 CFR §5.143?",
+    "options": [
+      "10%",
+      "25%",
+      "100% без исключений",
+      "51%"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "explanation": "Для этого типа предусмотрено минимум 51% ржи.",
+    "image": null,
+    "sourceIds": [
+      "us-whisky"
+    ]
+  },
+  {
+    "id": "official-spirits-070",
+    "category": "Стили виски",
+    "subcategory": "Straight",
+    "difficulty": "hard",
+    "question": "Какова минимальная выдержка американского Straight Whisky по 27 CFR §5.143?",
+    "options": [
+      "Три месяца",
+      "Десять лет",
+      "Два года",
+      "Одна неделя"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "explanation": "Обозначение Straight связано минимум с двухлетней выдержкой и другими требованиями.",
+    "image": null,
+    "sourceIds": [
+      "us-whisky"
+    ]
+  },
+  {
+    "id": "official-spirits-071",
+    "category": "Стили виски",
+    "subcategory": "Single Malt",
+    "difficulty": "hard",
+    "question": "Гарантирует ли Single Malt Scotch происхождение из единственной бочки?",
+    "options": [
+      "Всегда, если бутылка 700 мл",
+      "Нет",
+      "Да",
+      "Только если виски старше 12 лет"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "explanation": "Single Malt указывает на винокурню и сырьё; бочек в купаже может быть много.",
+    "image": null,
+    "sourceIds": [
+      "swa-categories"
+    ]
+  },
+  {
+    "id": "official-spirits-072",
+    "category": "Стили виски",
+    "subcategory": "Терруар и стиль",
+    "difficulty": "medium",
+    "question": "Что, помимо региона, влияет на профиль виски?",
+    "options": [
+      "Форма аппарата",
+      "Тип бочки",
+      "Только штрихкод",
+      "Только цвет коробки"
+    ],
+    "correctAnswers": [
+      0,
+      1
+    ],
+    "explanation": "Оборудование и выдержка существенно меняют характер напитка.",
+    "image": null,
+    "sourceIds": [
+      "swa-faq"
+    ]
+  }
+]
